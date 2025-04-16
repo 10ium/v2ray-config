@@ -7,8 +7,8 @@ import os
 warp_fixed_text = """#profile-title: base64:8J+GkyBCYXJyeS1mYXIgfCBXYXJwIPCfjJA=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/coldwater-10/V2ray-Config
-#profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+#support-url: https://github.com/10ium/V2ray-Config
+#profile-web-page-url: https://github.com/10ium/V2ray-Config
 
 """
 
