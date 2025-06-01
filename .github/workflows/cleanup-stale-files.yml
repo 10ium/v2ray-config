@@ -1,18 +1,18 @@
-name: Manually Cleanup Stale Split Files
+name: Manually Cleanup Stale Content Files
 on:
   workflow_dispatch:
     inputs:
       target_directory:
-        description: 'Path to the directory containing split files (e.g., SortedConfigs/Splitted-By-Protocol)'
+        description: 'Path to the directory containing files to check for content staleness (e.g., Base64)'
         required: true
-        default: 'Base64' # مسیر پیش‌فرض فایل‌های تقسیم‌شده شما
+        default: 'Base64' # مسیر پیش‌فرض، مطابق با نیاز شما
       stale_days:
-        description: 'Number of days after which a file is considered stale and will be deleted'
+        description: 'Number of days after which a file (whose content has not changed) is considered stale'
         required: true
-        default: '7' # فایل‌ها پس از ۷ روز عدم به‌روزرسانی حذف می‌شوند
+        default: '30' # مثال: محتوا پس از ۳۰ روز عدم تغییر، قدیمی تلقی می‌شود
 
 jobs:
-  cleanup_files:
+  cleanup_content_stale_files:
     runs-on: ubuntu-latest
     permissions:
       contents: write # اجازه برای کامیت و پوش کردن تغییرات
@@ -20,13 +20,15 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # برای دسترسی به کل تاریخچه گیت، که برای بررسی محتوا لازم است
 
       - name: Configure Git
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-      - name: Find and delete stale files
+      - name: Find and delete files with stale content
         env:
           TARGET_DIR: ${{ github.event.inputs.target_directory }}
           STALE_DAYS: ${{ github.event.inputs.stale_days }}
@@ -36,43 +38,65 @@ jobs:
             exit 1
           fi
 
-          echo "Scanning directory: $TARGET_DIR for files not updated in the last $STALE_DAYS days..."
+          echo "Scanning directory: $TARGET_DIR for files whose content has not changed in the last $STALE_DAYS days..."
           
           CURRENT_TIMESTAMP=$(date +%s)
           STALE_SECONDS=$((STALE_DAYS * 24 * 60 * 60))
           FILES_DELETED_COUNT=0
 
-          # Iterate over .txt files in the target directory
-          # Using find to handle filenames robustly
           find "$TARGET_DIR" -maxdepth 1 -type f -name "*.txt" -print0 | while IFS= read -r -d $'\0' file_path; do
-            echo "Checking file: $file_path"
-            
-            # Get the Unix timestamp of the last commit affecting this file
-            # If the file was never committed or git log fails, it will be empty
-            LAST_COMMIT_TIMESTAMP_FOR_FILE=$(git log -1 --format=%ct -- "$file_path")
+            echo "-----------------------------------------------------"
+            echo "Checking content staleness for file: $file_path"
+            LAST_CONTENT_CHANGE_TS=""
 
-            if [ -z "$LAST_COMMIT_TIMESTAMP_FOR_FILE" ]; then
-              echo "Warning: Could not get commit timestamp for $file_path. It might be a new or untracked file. Skipping."
-              continue
+            # Iterate through commit history for the file, from newest to oldest
+            # For each commit, check if its content for the file is different from its parent's content
+            # The first commit (newest) that shows such a difference is our target
+            # `git log --format="%H %ct"` gives commit_hash and commit_timestamp
+            git log --format="%H %ct" -- "$file_path" | while IFS=" " read -r commit_hash commit_ts; do
+              # Check if the content of the file at $commit_hash differs from its content at $commit_hash^ (parent)
+              # `git diff --quiet` exits with 1 if different, 0 if same.
+              # `2>/dev/null` suppresses errors for initial commit where parent doesn't exist.
+              if ! git diff --quiet "$commit_hash^" "$commit_hash" -- "$file_path" 2>/dev/null; then
+                # Content IS different between $commit_hash and its parent,
+                # OR this is the initial commit of the file.
+                # This means $commit_hash is when the file's current content stream was established or changed.
+                LAST_CONTENT_CHANGE_TS="$commit_ts"
+                break # Found the most recent commit that actually changed the file's content
+              fi
+            done
+
+            if [ -z "$LAST_CONTENT_CHANGE_TS" ]; then
+              # Fallback: If no content changes were found (e.g., file added and never modified, or only one commit for the file)
+              # Use the timestamp of the very first commit of this file.
+              FIRST_COMMIT_TS=$(git log --format=%ct --reverse -- "$file_path" | head -n 1)
+              if [ -n "$FIRST_COMMIT_TS" ]; then
+                  echo "Warning: No specific content changes detected after the initial commit for '$file_path'. Using its first commit time."
+                  LAST_CONTENT_CHANGE_TS="$FIRST_COMMIT_TS"
+              else
+                  echo "Error: Could not determine any commit timestamp for '$file_path'. Skipping."
+                  continue
+              fi
             fi
             
-            echo "Last commit timestamp for $file_path: $LAST_COMMIT_TIMESTAMP_FOR_FILE"
-            FILE_AGE_SECONDS=$((CURRENT_TIMESTAMP - LAST_COMMIT_TIMESTAMP_FOR_FILE))
+            echo "Timestamp of last actual content change for '$file_path': $LAST_CONTENT_CHANGE_TS ($(date -d @$LAST_CONTENT_CHANGE_TS))"
+            FILE_CONTENT_AGE_SECONDS=$((CURRENT_TIMESTAMP - LAST_CONTENT_CHANGE_TS))
 
-            if [ "$FILE_AGE_SECONDS" -gt "$STALE_SECONDS" ]; then
-              echo "File $file_path is stale (last updated $((FILE_AGE_SECONDS / 86400)) days ago). Deleting..."
+            if [ "$FILE_CONTENT_AGE_SECONDS" -gt "$STALE_SECONDS" ]; then
+              echo "File '$file_path' content is stale (last content change was $((FILE_CONTENT_AGE_SECONDS / 86400)) days ago). Deleting..."
               git rm "$file_path"
               FILES_DELETED_COUNT=$((FILES_DELETED_COUNT + 1))
             else
-              echo "File $file_path is not stale (last updated $((FILE_AGE_SECONDS / 86400)) days ago)."
+              echo "File '$file_path' content is not stale (last content change was $((FILE_CONTENT_AGE_SECONDS / 86400)) days ago)."
             fi
           done
+          echo "-----------------------------------------------------"
 
           if [ "$FILES_DELETED_COUNT" -gt 0 ]; then
-            echo "$FILES_DELETED_COUNT stale file(s) deleted. Committing and pushing changes..."
-            git commit -m "Clean up: Remove $FILES_DELETED_COUNT stale file(s) from $TARGET_DIR (older than $STALE_DAYS days)"
+            echo "$FILES_DELETED_COUNT file(s) with stale content deleted. Committing and pushing changes..."
+            git commit -m "Clean up: Remove $FILES_DELETED_COUNT file(s) with stale content from $TARGET_DIR (older than $STALE_DAYS days)"
             git push
           else
-            echo "No stale files found to delete in $TARGET_DIR."
+            echo "No files with stale content found to delete in $TARGET_DIR."
           fi
         shell: bash
