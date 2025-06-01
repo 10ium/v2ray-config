@@ -93,7 +93,6 @@ def main():
         "https://raw.githubusercontent.com/Huibq/TrojanLinks/refs/heads/master/links/ssr",
         "https://raw.githubusercontent.com/Huibq/TrojanLinks/refs/heads/master/links/vmess",
         "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2",
-        "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless",
         "https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub",
         "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/splitted/hy2",
         "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/splitted/hysteria2",
