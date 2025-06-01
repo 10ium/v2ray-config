@@ -5,7 +5,7 @@ on:
       target_directory:
         description: 'Path to the directory containing split files (e.g., SortedConfigs/Splitted-By-Protocol)'
         required: true
-        default: '.' # مسیر پیش‌فرض فایل‌های تقسیم‌شده شما
+        default: 'Base64' # مسیر پیش‌فرض فایل‌های تقسیم‌شده شما
       stale_days:
         description: 'Number of days after which a file is considered stale and will be deleted'
         required: true
