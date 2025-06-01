@@ -32,27 +32,40 @@ protocols = {
     'hy2': 'hysteria2.txt'
 }
 
+# ptt مسیر ریشه ریپازیتوری را مشخص می‌کند (چون اسکریپت از داخل پوشه Files اجرا می‌شود)
 ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
-splitted_path = os.path.join(ptt, 'Splitted-By-Protocol')
 
-# Ensure the directory exists
+# --- شروع تغییر ---
+# نام پوشه اصلی جدید که فایل‌های تقسیم شده در آن قرار گیرند، "SortedConfigs" انتخاب شده است.
+new_parent_folder_name = "SortedConfigs"
+
+# مسیر پایه برای خروجی‌ها، با احتساب پوشه والد جدید
+base_output_path = os.path.join(ptt, new_parent_folder_name)
+
+# مسیر کامل برای پوشه Splitted-By-Protocol، که حالا داخل new_parent_folder_name ("SortedConfigs") قرار می‌گیرد
+splitted_path = os.path.join(base_output_path, 'Splitted-By-Protocol')
+# --- پایان تغییر ---
+
+# اطمینان از وجود دایرکتوری (os.makedirs در صورت عدم وجود، دایرکتوری‌های والد را نیز ایجاد می‌کند)
 os.makedirs(splitted_path, exist_ok=True)
 
 protocol_data = {protocol: generate_header_text(protocol) for protocol in protocols}
 
 # Fetching the configuration data
+# توجه: این قسمت همچنان از فایل موجود در آخرین کامیت بر روی شاخه main در GitHub می‌خواند.
+# این یعنی فایل‌های دسته‌بندی شده بر اساس خروجی موفقیت‌آمیز قبلی app.py هستند.
 response = requests.get("https://raw.githubusercontent.com/10ium/V2ray-Config/main/All_Configs_Sub.txt").text
 
 # Processing and grouping configurations
 for config in response.splitlines():
-    for protocol in protocols.keys():
-        if config.startswith(protocol):
-            protocol_data[protocol] += config + "\n"
-            break
+    for protocol_key in protocols.keys(): # تغییر نام متغیر تکراری protocol به protocol_key
+        if config.startswith(protocol_key):
+            protocol_data[protocol_key] += config + "\n"
+            break # پس از پیدا کردن پروتکل، از حلقه داخلی خارج شو
 
 # Encoding and writing the data to files
-for protocol, data in protocol_data.items():
-    file_path = os.path.join(splitted_path, protocols[protocol])
+for protocol_key, data in protocol_data.items(): # تغییر نام متغیر تکراری protocol به protocol_key
+    file_path = os.path.join(splitted_path, protocols[protocol_key])
     encoded_data = base64.b64encode(data.encode("utf-8")).decode("utf-8")
     with open(file_path, "w") as file:
         file.write(encoded_data)
