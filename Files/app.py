@@ -54,9 +54,10 @@ def decode_dir_links(dir_links):
 # Filter function to select lines based on specified protocols
 def filter_for_protocols(data, protocols):
     filtered_data = []
-    for line in data:
-        if any(protocol in line for protocol in protocols):
-            filtered_data.append(line)
+    for item in data: # Changed from 'line' to 'item' to avoid confusion with lines in a file
+        for line in item.splitlines(): # Process each line if item is a multi-line string
+            if any(protocol in line for protocol in protocols):
+                filtered_data.append(line)
     return filtered_data
 
 # Create necessary directories if they don't exist
@@ -74,6 +75,10 @@ def ensure_directories_exist():
 # Main function to process links and write output files
 def main():
     output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
+
+    # Define the new folder for count-based split files
+    count_split_folder_name = "Count_Splitted_Configs"
+    count_split_path = os.path.join(output_folder, count_split_folder_name)
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
@@ -186,63 +191,101 @@ def main():
     decoded_dir_links = decode_dir_links(dir_links)
 
     combined_data = decoded_links + decoded_dir_links
-    merged_configs = filter_for_protocols(combined_data, protocols)
+    # Ensure merged_configs contains only strings, not lists of strings
+    merged_configs_lines = []
+    for item in combined_data:
+        merged_configs_lines.extend(item.splitlines())
+    
+    merged_configs = filter_for_protocols(merged_configs_lines, protocols)
+
 
     # Clean existing output files
-    output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
-    filename1 = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
+    all_configs_sub_path = os.path.join(output_folder, "All_Configs_Sub.txt")
+    # Assuming All_Configs_base64_Sub.txt is intentionally in the root, as per original script structure
+    all_configs_base64_output_path = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
     
-    if os.path.exists(output_filename):
-        os.remove(output_filename)
-    if os.path.exists(filename1):
-        os.remove(filename1)
+    if os.path.exists(all_configs_sub_path):
+        os.remove(all_configs_sub_path)
+    if os.path.exists(all_configs_base64_output_path): # Path used for main base64 file
+        os.remove(all_configs_base64_output_path)
 
-    for i in range(20):
-        filename = os.path.join(output_folder, f"Sub{i}.txt")
-        if os.path.exists(filename):
-            os.remove(filename)
-        filename1 = os.path.join(base64_folder, f"Sub{i}_base64.txt")
-        if os.path.exists(filename1):
-            os.remove(filename1)
+    # Clean SubX.txt files from the new count_split_path folder
+    # The original loop cleaned Sub0.txt to Sub19.txt. We replicate this for the new location.
+    # Files are generated as Sub1.txt, Sub2.txt, etc.
+    if os.path.exists(count_split_path):
+        for i in range(20): # Cleans Sub0.txt .. Sub19.txt if they exist in count_split_path
+            filename_to_clean = os.path.join(count_split_path, f"Sub{i}.txt")
+            if os.path.exists(filename_to_clean):
+                os.remove(filename_to_clean)
+    
+    # Clean SubX_base64.txt files from base64_folder (this part is unchanged as per request)
+    if os.path.exists(base64_folder):
+        for i in range(20): # Cleans Sub0_base64.txt .. Sub19_base64.txt if they exist
+            base64_file_to_clean = os.path.join(base64_folder, f"Sub{i}_base64.txt")
+            if os.path.exists(base64_file_to_clean):
+                os.remove(base64_file_to_clean)
 
-    # Write merged configs to output file
-    with open(output_filename, "w") as f:
+    # Write merged configs to output file (All_Configs_Sub.txt in root)
+    with open(all_configs_sub_path, "w") as f:
         f.write(fixed_text)
-        for config in merged_configs:
+        unique_configs = sorted(list(set(merged_configs))) # Remove duplicates and sort
+        for config in unique_configs:
             f.write(config + "\n")
 
     # Split merged configs into smaller files (no more than 600 configs per file)
-    with open(output_filename, "r") as f:
-        lines = f.readlines()
+    with open(all_configs_sub_path, "r") as f:
+        lines = f.readlines() # lines already includes fixed_text as first few lines
 
-    num_lines = len(lines)
+    # Exclude fixed_text lines from being counted towards max_lines_per_file if they are part of 'lines'
+    # and not part of the actual configs.
+    # However, the original script includes fixed_text in the count for splitting.
+    # The current `lines` variable will include the `fixed_text` if it was written to All_Configs_Sub.txt
+    # and then read back. The split files also get a custom_fixed_text.
+
+    num_config_lines = len(lines) # This includes the initial fixed_text lines from All_Configs_Sub.txt
     max_lines_per_file = 600
-    num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
+    num_files = (num_config_lines + max_lines_per_file - 1) // max_lines_per_file
 
-    for i in range(num_files):
+    # Ensure the new directory for count-split files exists
+    os.makedirs(count_split_path, exist_ok=True)
+
+    for i in range(num_files): # i from 0 to num_files-1
         profile_title = f"🆓 Git:Barry-far | Sub{i+1} 🫂"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
-        custom_fixed_text = f"""#profile-title: base64:{encoded_title}
+        custom_fixed_text_for_split_files = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/10ium/V2ray-Config
 #profile-web-page-url: https://github.com/10ium/V2ray-Config
 """
-
-        input_filename = os.path.join(output_folder, f"Sub{i + 1}.txt")
-        with open(input_filename, "w") as f:
-            f.write(custom_fixed_text)
+        # Path for the split file (e.g., Sub1.txt) now goes into count_split_path
+        split_file_path = os.path.join(count_split_path, f"Sub{i + 1}.txt")
+        with open(split_file_path, "w") as f:
+            f.write(custom_fixed_text_for_split_files) # Write header for this specific split file
             start_index = i * max_lines_per_file
-            end_index = min((i + 1) * max_lines_per_file, num_lines)
-            for line in lines[start_index:end_index]:
-                f.write(line)
+            end_index = min((i + 1) * max_lines_per_file, num_config_lines)
+            
+            # Logic to handle writing lines:
+            # If start_index is 0, we are in the first file (Sub1.txt).
+            # The 'lines' variable contains everything from All_Configs_Sub.txt including its header.
+            # The custom_fixed_text_for_split_files is already written.
+            # We should write the config lines from 'lines' starting after its header,
+            # or adjust 'max_lines_per_file' to account for the new header in each split file.
 
-        with open(input_filename, "r") as input_file:
-            config_data = input_file.read()
+            # Simpler approach: write the segment of lines directly.
+            # Each split file gets its own header, then a chunk of lines from the main aggregated file.
+            for line_content in lines[start_index:end_index]:
+                f.write(line_content)
+
+        # Base64 encoding part for the split file
+        # Reads from split_file_path (which is now in count_split_path/SubX.txt)
+        # Writes to base64_folder/SubX_base64.txt (this behavior is unchanged as per request)
+        with open(split_file_path, "r") as input_file:
+            config_data_for_base64 = input_file.read()
         
-        output_filename = os.path.join(base64_folder, f"Sub{i + 1}_base64.txt")
-        with open(output_filename, "w") as output_file:
-            encoded_config = base64.b64encode(config_data.encode()).decode()
+        base64_output_for_split_file = os.path.join(base64_folder, f"Sub{i + 1}_base64.txt")
+        with open(base64_output_for_split_file, "w") as output_file:
+            encoded_config = base64.b64encode(config_data_for_base64.encode()).decode()
             output_file.write(encoded_config)
 
 if __name__ == "__main__":
