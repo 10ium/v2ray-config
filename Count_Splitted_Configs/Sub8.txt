@@ -3,8 +3,50 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/10ium/V2ray-Config
 #profile-web-page-url: https://github.com/10ium/V2ray-Config
+trojan://47ac2c00-0a7d-11f0-81fc-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.168:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-162.210.196.168:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.192:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.52:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?security=tls&sni=trus.moonfree.top&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.53:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?security=tls&sni=trus.moonfree.top&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-185.107.56.55:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.139:443?security=tls&sni=trus.moonfree.top#🔒 TR-TCP-TLS 🇺🇸 US-192.157.56.139:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@37.48.65.155:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-37.48.65.155:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-69.162.95.5:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.6:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-69.162.95.6:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.26:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-74.63.241.26:443
+trojan://4PbOjiMDLh@104.21.44.185:2096?security=tls&sni=support.onetwothree123.ir&type=ws&host=support.onetwothree123.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.44.185:2096
+trojan://4PbOjiMDLh@104.21.71.8:2096?security=tls&sni=esna.itn24.ir&type=ws&host=esna.itn24.ir&path=/🆔@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.71.8:2096
+trojan://4PbOjiMDLh@104.21.71.8:2096?security=tls&type=ws&sni=esna.itn24.ir&path=/🆔@M3HDIO1&host=esna.itn24.ir#%E6%9C%AA%E7%9F%A559
+trojan://4Tze3Ri*i%23Fo@104.21.44.185:8443?security=tls&sni=soft.onetwothree123.ir&type=httpupgrade&host=soft.onetwothree123.ir&path=/L9sBUTui#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.44.185:8443
+trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443?security=tls&sni=SxcDe3.859886.XYz&type=ws&host=sxcde3.859886.xyz&path=/COp52Dbu3dvwvDWUxOqxq#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.83.113:443
+trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443?security=tls&type=ws&sni=SxcDe3.859886.XYz&path=/COp52Dbu3dvwvDWUxOqxq&host=sxcde3.859886.xyz#%E6%9C%AA%E7%9F%A575
+trojan://4aca21d0-e787-11ef-9708-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://4b132e2b-24b1-418b-90e9-a11b619a799b@104.21.82.14:443?security=tls&sni=m1assddr.777259.xyz&type=ws&host=m1assddr.777259.xyz&path=/Hnko4qt8WwmcpejJLlDlbpi#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.82.14:443
+trojan://4b132e2b-24b1-418b-90e9-a11b619a799b@172.67.150.169:443?security=tls&sni=m1assddr.777259.xyz&type=ws&host=m1assddr.777259.xyz&path=/Hnko4qt8WwmcpejJLlDlbpi#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.150.169:443
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&security=tls&alpn=http%2F1.1&host=xxxxxxx.890604.dpdns.org&fp=chrome&type=ws&sni=xXxXxxx.890604.dPDNs.org#RELAY🚩 | xXxXxxx.890604.dPDNs.org-443 | 7334.43ms
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?security=tls&sni=xXxXxxx.890604.dPDNs.org&type=ws&host=xxxxxxx.890604.dpdns.org&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.242:443
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.7.147:443?security=tls&sni=44444444.HuanGShANG.DPDNs.oRG&type=ws&host=44444444.huangshang.dpdns.org&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.7.147:443
+trojan://4b33b482-25bc-49e4-b866-878c914d945a@172.67.155.140:443?security=tls&sni=44444444.HuanGShANG.DPDNs.oRG&type=ws&host=44444444.huangshang.dpdns.org&path=%2FkzefUfBUzMsQY6zyyQCjn8kmnN0ehd&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.155.140:443
+trojan://4be9a6e0-d294-11ef-b4a1-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.156:443?security=tls&sni=uk8i7uufxlcbr2hbym.jjjiedian6j4tblb.com&type=ws&host=uk8i7uufxlcbr2hbym.jjjiedian6j4tblb.com&path=%2Fimages#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.156:443
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.163:443?security=tls&sni=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&type=ws&host=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.163:443
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.198:443?security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&type=ws&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=%2Fimages#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.198:443
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.232:443?security=tls&sni=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&type=ws&host=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.232:443
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.8:443?security=tls&sni=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&type=ws&host=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.8:443
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.94:443?security=tls&sni=ustrorxur6vt79grpe.jjjiedian6j4tblb.com&type=ws&host=ustrorxur6vt79grpe.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.94:443
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.94:443?security=tls&type=ws&sni=ustrorxur6vt79grpe.jjjiedian6j4tblb.com&path=/images&host=ustrorxur6vt79grpe.jjjiedian6j4tblb.com#US16
+trojan://4c923d20-fd1f-11ef-ad3e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://4cc9bb80-1234-11f0-94b6-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://4d048fc6-d944-41dd-b327-10856adcc82d@199.59.243.228:443?security=tls&sni=zi.you.usdtvfk.top#🔒 TR-TCP-TLS 🇺🇸 US-199.59.243.228:443
+trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20-%20Izmir%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://4deefa4b-349d-4db8-be3c-d4d61c862718@43.207.81.97:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-43.207.81.97:20230
+trojan://4deefa4b-349d-4db8-be3c-d4d61c862718@52.195.233.223:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇯🇵 JP-52.195.233.223:20230
+trojan://4deefa4b-349d-4db8-be3c-d4d61c862718@52.69.125.93:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-52.69.125.93:20230
+trojan://4e039520-c85d-11ef-8d37-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://4e2e0080-1af3-11f0-8e1e-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://4e2e0080-1af3-11f0-8e1e-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%A9%B5
 trojan://4e87a4cb-aa40-4607-9eb1-c9b11067f273@us2.trojvpn.site:443?host=us2.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@221.131.165.103:46002?#🔒 TR-TCP-NA 🇨🇳 CN-221.131.165.103:46002
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@94.177.131.150:46002?#🔒 TR-TCP-NA 🇯🇵 JP-94.177.131.150:46002
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
 trojan://4ea3cdc0-ec7d-11ef-ba77-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -12,7 +54,6 @@ trojan://4j9FMSQUO%3BG.jV%7BT@104.21.16.1:2083?security=tls&sni=JOINmahDIsERVEr-
 trojan://50197133-5149-40fc-89fa-3f71d5f2e8c4@183.236.51.106:10816?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-183.236.51.106:10816
 trojan://50197133-5149-40fc-89fa-3f71d5f2e8c4@183.236.51.119:10816?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-183.236.51.119:10816
 trojan://502560b1-6cb2-443e-ba50-361c94ddab3a@172.65.190.172:33019?security=tls&sni=dtua1.bitznet.one#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.65.190.172:33019
-trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=SsSxderT.fREevPnatM.Dpdns.ORG&type=ws&host=sssxdert.freevpnatm.dpdns.org&path=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.137.6:443
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443?allowInsecure=1&sni=CcCVfGTyU.89060004.Xyz&type=ws&host=CcCVfGTyU.89060004.Xyz&path=/5MkU0nARgHwk3aXBStn7#US_speednode_0264
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443?security=tls&sni=CcCVfGTyU.89060004.Xyz&type=ws&host=cccvfgtyu.89060004.xyz&path=%2F5MkU0nARgHwk3aXBStn7&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.3.189:443
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@172.67.131.27:443?security=tls&sni=CcCVfGTyU.89060004.Xyz&type=ws&host=cccvfgtyu.89060004.xyz&path=%2F5MkU0nARgHwk3aXBStn7&fp=chrome&alpn=http%2F1.1#🇺🇸_hamedp71_trojan-US
@@ -20,6 +61,7 @@ trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@172.67.131.27:443?security=tls&sni
 trojan://510b4540-0a7d-11f0-b23c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://512d9674-db12-44ca-a1b5-654244549b65@104.21.65.190:443?sni=gghui.4444936.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.65.190:443
 trojan://512d9674-db12-44ca-a1b5-654244549b65@104.21.65.31:443?security=tls&sni=XxCdvfgty.444652.xyZ&type=ws&host=xxcdvfgty.444652.xyz&path=%2FHOi2k5ElZdeML7Ua7dX3JIrYk7zm&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.65.31:443
+trojan://512d9674-db12-44ca-a1b5-654244549b65@172.67.165.122:443?sni=gghui.4444936.xyz#%E6%9C%AA%E7%9F%A523
 trojan://512d9674-db12-44ca-a1b5-654244549b65@172.67.165.122:443?sni=gghui.4444936.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.165.122:443
 trojan://512d9674-db12-44ca-a1b5-654244549b65@172.67.188.188:443?security=tls&sni=XxCdvfgty.444652.xyZ&type=ws&host=xxcdvfgty.444652.xyz&path=%2FHOi2k5ElZdeML7Ua7dX3JIrYk7zm&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.188.188:443
 trojan://518299d0-066f-11f0-a2c8-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -29,8 +71,8 @@ trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni
 trojan://54231b3d-a39d-4769-a511-2a1c663a62b1@48.210.245.1:443?sni=sg02.trojanyyds.xyz&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-48.210.245.1:443
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.133.248:443?sni=1sDFgT.890604.FileGear-sG.mE&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.133.248:443
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.210.210:443?security=tls&sni=1cc.852224.ggff.net&type=ws&host=1cc.852224.ggff.net&path=/OYzPAeaZdXUq2d6J3gc4aj#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.210.210:443
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&headerType=none&type=tcp&sni=pl1.trojanvh.xyz#⚡Telegram = @SOSkeyNET
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz&type=tcp#🔒 TR-TCP-TLS 🇵🇱 PL-51.83.186.142:443
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&type=tcp&sni=pl1.trojanvh.xyz#%E6%9C%AA%E7%9F%A589
 trojan://5586eb05-1e5c-4b27-a276-86311547b95e@20.2.156.167:443?security=tls&sni=waphk.mjt000.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://55af195e-105f-4efc-871b-6eccb3163214@162.159.153.2:443?security=tls&sni=ft-champions-coupons-relate.trycloudflare.com&type=ws&host=ft-champions-coupons-relate.trycloudflare.com#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20Hanoi%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
@@ -60,27 +102,25 @@ trojan://5afd9e20-2133-11f0-8d56-1239d0255272@fr1.test3.net:443?security=tls&amp
 trojan://5c5ceb40-902b-11eb-945a-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://5c634f9c-3dd4-4d3e-97c2-9db2470cf722@82.152.164.10:34015?sni=jsygouer.weixin-baidu-qq.com#🔒 TR-TCP-NA 🇭🇰 HK-82.152.164.10:34015
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=wel-jp.optage.moe&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://5cd14734-4ff7-4161-9ed3-bf0d824e311c@157.254.38.210:20081?sni=VN.catxstar.com#US7
 trojan://5cd14734-4ff7-4161-9ed3-bf0d824e311c@157.254.38.210:20081?sni=VN.catxstar.com#🔒 TR-TCP-NA 🇺🇸 US-157.254.38.210:20081
 trojan://5cd14734-4ff7-4161-9ed3-bf0d824e311c@157.254.38.210:20081?sni=VN.catxstar.com&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-157.254.38.210:20081
-trojan://5d017ae0-d850-11ef-978e-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp&allowInsecure=1#RELAY🚩 | chatbuzzteambhm.chatbuzzt7150.workers.dev-443 | 55.4ms
 trojan://5d58b7eb-43c4-448c-90e5-17b2a85ccb3b@20.2.156.164:443?security=tls&sni=sg01.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://5d58b7eb-43c4-448c-90e5-17b2a85ccb3b@20.2.156.164:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://5de7ba00-1234-11f0-b66e-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%F0%9F%87%BA%F0%9F%87%B863%20%7C%20%202.1MB/s%7C46%25%7COpenai%7CGem...
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#2%7C%F0%9F%87%BA%F0%9F%87%B863%20%7C%20%202.1MB/s%7C46%25%7COpenai%7CGem...
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@157.148.96.89:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-157.148.96.89:15229
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@157.148.96.94:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-157.148.96.94:15229
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@157.148.96.92:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-157.148.96.92:15229
 trojan://5e861ad0-df39-11ef-a02e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://5eaad1a0-c85d-11ef-98d5-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://5f5fe3c0-066f-11f0-ba3c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.69.41:443?sni=kju84.890602.XYZ#%E6%9C%AA%E7%9F%A5102
-trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.69.41:443?sni=kju84.890602.XYZ#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.69.41:443
+trojan://5z3ePeMUXf@n.nyav2.info:85?type=ws&path=%2F&host=&security=tls&fp=&alpn=&allowInsecure=1&sni=filmnet.ir#✅@AR14N24b
+trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.69.41:443?sni=kju84.890602.XYZ&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.69.41:443
 trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.204.22:443?sni=kju84.890602.XYZ&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.204.22:443
 trojan://6067e620-f389-11ef-9640-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@20.2.156.38:443/?type=tcp&security=tls&sni=il.mjt000.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.38-0836
 trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@il.mjt000.com:443/?type=tcp&security=tls&sni=il.mjt000.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.38-5574
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@157.148.96.92:15229?allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-157.148.96.92:15229
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@157.148.96.94:15229?allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-157.148.96.94:15229
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.5MB/s%7C46%25%7COpenai%7CGem...
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#2%7C%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.5MB/s%7C46%25%7COpenai%7CGem...
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@103.224.212.211:443?security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
@@ -89,6 +129,7 @@ trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@70.32.1.32:443?security=tls&sni=jp
 trojan://616F5C28-A1B2-D7C7-2F5D-46AC56436130@163.177.58.129:8306?sni=cos.ap-guangzhou.myqcloud.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-163.177.58.129:8306
 trojan://61d4840a5f23ac24873dd72e54a607e7@104.21.17.238:443?security=tls&sni=notice.2513142.xyz&type=ws&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.17.238:443
 trojan://61d4840a5f23ac24873dd72e54a607e7@172.67.178.220:443?security=tls&sni=notice.2513142.xyz&type=ws&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.178.220:443
+trojan://61d4840a5f23ac24873dd72e54a607e7@172.67.178.220:443?security=tls&type=ws&sni=notice.2513142.xyz&path=/#%E6%9C%AA%E7%9F%A573
 trojan://61f7ce90-2132-11f0-ba75-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://61f7ce90-2132-11f0-ba75-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%9D
 trojan://62313560-c059-11ee-b43c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -101,8 +142,6 @@ trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?sni=freehr01.j
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.208:443?security=tls&sni=kr2.twincloud.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20Gwangmyeong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@217.142.224.106:443?security=tls&sni=jp2.twincloud.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Osaka%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://654a309b-fdaa-3263-9bed-74a7e1532fd9@103.224.182.213:443?security=tls&sni=az05feiy.kuli888.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Diego%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://6593b778-e45e-4f94-b5ae-641d4b7b02ae@13.248.169.48:443?security=tls&sni=42.earths.team&allowInsecure=1#US🇺🇸 | 42.earths.team-443 | 93.31ms
-trojan://6593b778-e45e-4f94-b5ae-641d4b7b02ae@76.223.54.146:443?security=tls&sni=42.earths.team&allowInsecure=1#US🇺🇸 | 42.earths.team-443 | 134.18ms
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#🔒 TR-TCP-TLS 🇩🇪 DE-139.162.158.172:443
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.6:443
@@ -118,13 +157,13 @@ trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@172.67.150.57:443?security=tls&sni
 trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@172.67.218.63:443?security=tls&sni=M4rrT.999157.XYz&type=ws&host=m4rrt.999157.xyz&path=/NuDL4mLrBwsbnEcmJLxC#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.218.63:443
 trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&sni=007.com&allowInsecure=1&fp=chrome&type=grpc&serviceName=db#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taichung%20%F0%9F%8C%8F%20TR-GRPC-TLS%204%E2%83%A3
 trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&sni=007.com&type=grpc#🔒 TR-GRPC-TLS 🇹🇼 TW-60.249.28.59:443
+trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&type=grpc&sni=007.com#TW2
 trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#🔒 TR-WS-NONE 🇺🇸 US-151.101.66.219:80
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.20:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.20:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.21:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.21:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.142.237:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.142.237:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.143.237:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.143.237:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.144.63:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.144.63:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.144.63:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5127
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.20.118:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.20.118:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.21.118:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.21.118:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.223.254:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.223.254:443
@@ -135,11 +174,12 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.17.48.63:443?security=tls&sni=
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.160.63:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.160.63:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.20.94:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.20.94:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.21.94:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.21.94:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.21.94:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A519
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.26.94:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.26.94:443
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.26.94:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A545
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.34.202:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.202:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.17:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.42.17:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.98:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.42.98:443
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.98:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A582
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.12.116:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.12.116:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.18.144:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.18.144:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.21.23.72:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.23.72:443
@@ -150,10 +190,8 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.22.15.132:443?security=tls&sni
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.22.36.243:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.22.36.243:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.22.37.243:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.22.37.243:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.12.140:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.140:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.12.140:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5125
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.12.23:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.23:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.13.140:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.140:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.13.140:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A58
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.13.23:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.23:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.5.57:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.5.57:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.6.214:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.6.214:443
@@ -164,7 +202,6 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@149.129.8.215:443?sni=icecream.955
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz#🔒 TR-TCP-NA 🇿🇦 ZA-160.123.255.134:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇿🇦 ZA-160.123.255.173:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇿🇦 ZA-160.123.255.18:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?sni=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5115
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?sni=icecream.955850.xyz#🔒 TR-TCP-NA 🇿🇦 ZA-160.123.255.199:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇿🇦 ZA-160.123.255.243:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-160.79.105.169:443
@@ -179,7 +216,6 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.247:443?security=tls&s
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.145.158:443?security=tls&sni=icecream.955850.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.145.158:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.145.239:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.145.239:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.153.54:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.153.54:443
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.153.54:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&proxyIP=null&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A580
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.65.90.52:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.65.90.52:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.65.90.53:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.65.90.53:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.152.71:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.152.71:443
@@ -220,10 +256,10 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.100:4002?sni=icecream.95
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇷🇺 RU-45.67.215.153:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2FTelegram%40V2ray_Alpha#🔒 TR-WS-TLS 🇷🇺 RU-45.67.215.196:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇷🇺 RU-45.67.215.218:443
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5118
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?sni=icecream.955850.xyz#🔒 TR-TCP-NA 🇷🇺 RU-45.67.215.234:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-NA 🇷🇺 RU-45.67.215.5:443
 trojan://688c4390-ceb9-11ef-beb0-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://69678f53-fe48-4d6f-8da1-61f90a6a1ed7@104.21.42.93:443?security=tls&sni=IIIiIiiiiI9.999864.xYz&type=ws&host=iiiiiiiiii9.999864.xyz&path=%2FUPfaOGGrdoqPR6MznS&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.42.93:443
 trojan://69678f53-fe48-4d6f-8da1-61f90a6a1ed7@104.21.66.157:443?security=tls&sni=RrRrrRRrrFgT67.666470.xYz&type=grpc&serviceName=UPfaOGGrdovOJJrQMhgkgy4LE&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.66.157:443
 trojan://69678f53-fe48-4d6f-8da1-61f90a6a1ed7@172.67.161.129:443?security=tls&sni=RrRrrRRrrFgT67.666470.xYz&type=grpc&serviceName=UPfaOGGrdovOJJrQMhgkgy4LE&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.161.129:443
 trojan://696cfe79@192.9.132.79:443?security=tls&sni=sje.5216818.xyz&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
@@ -243,6 +279,7 @@ trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.23.115:443?security=tls&sni
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.25.95:443?security=tls&sni=boston03.890604.FILEGEAr-SG.ME&type=ws&host=boston03.890604.FILEGEAr-SG.ME&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.25.95:443
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.26.69:443?security=tls&sni=BoSTON03.862224.ggFf.neT&type=ws&host=boston03.862224.ggff.net&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.26.69:443
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.63.236:443?security=tls&sni=BOSton01.890604.GGff.NeT&type=ws&host=boston01.890604.ggff.net&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.63.236:443
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.63.236:443?security=tls&type=ws&sni=BOSton01.890604.GGff.NeT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston01.890604.ggff.net#%E6%9C%AA%E7%9F%A583
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.168.62:443?security=tls&sni=BoSTON03.862224.ggFf.neT#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.168.62:443
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.191.251:443?security=tls&sni=BoStoN01.890614.GGff.neT&type=ws&host=boston01.890614.ggff.net&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.191.251:443
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@120.241.226.93:2053?sni=45.32.28.232#🔒 TR-TCP-NA 🇨🇳 CN-120.241.226.93:2053
@@ -259,6 +296,7 @@ trojan://6e93a800-df39-11ef-ae10-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://6fef5ff0-48a4-11f0-b000-1239d0255272@103.253.24.216:443?security=tls&sni=sg3.6n6.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-103.253.24.216:443
 trojan://6gUCk7hlRJ@104.17.27.198:8443?security=tls&sni=MIKasA.drAgoNAllEy.iR.&type=ws&host=MIKasA.drAgoNAllEy.iR.&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.27.198:8443
 trojan://6gUCk7hlRJ@172.67.193.157:8443?security=tls&sni=MIKasA.drAgoNAllEy.iR.&type=ws&host=MIKasA.drAgoNAllEy.iR.&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.193.157:8443
+trojan://6gUCk7hlRJ@172.67.193.157:8443?security=tls&type=ws&sni=MIKasA.drAgoNAllEy.iR.&path=/&host=MIKasA.drAgoNAllEy.iR.#%E6%9C%AA%E7%9F%A556
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-104.248.18.1:1935
 trojan://70017490-2132-11f0-bdf2-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://70017490-2132-11f0-bdf2-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%9E
@@ -270,7 +308,6 @@ trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10102?sni=sni.eos-suzho
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10103?sni=sni.eos-suzhou-4.cmecloud.cn&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10103
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10104?sni=sni.eos-suzhou-4.cmecloud.cn&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10104
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10105?sni=sni.eos-suzhou-4.cmecloud.cn&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10105
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10106?sni=sni.eos-suzhou-4.cmecloud.cn#%E6%9C%AA%E7%9F%A531
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10106?sni=sni.eos-suzhou-4.cmecloud.cn#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10106
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10107?sni=sni.eos-suzhou-4.cmecloud.cn#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10107
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10108?sni=sni.eos-suzhou-4.cmecloud.cn#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10108
@@ -285,18 +322,18 @@ trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12018?sni=64.yuanul.com
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12101?sni=104.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12101
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12102?sni=106.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12102
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12103?sni=116.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12103
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12104?sni=108.yuanul.com#%E6%9C%AA%E7%9F%A585
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12104?sni=108.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12104
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12105?#%E6%9C%AA%E7%9F%A5103
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12105?#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12105
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12106?sni=110.yuanul.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12106
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12201?sni=149.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12201
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12202?sni=119.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12202
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12203?sni=120.yuanul.com#%E6%9C%AA%E7%9F%A591
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12203?sni=120.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12203
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12204?sni=121.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12204
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12205?sni=122.yuanul.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12205
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12205?sni=122.yuanul.com#%E6%9C%AA%E7%9F%A5107
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12205?sni=122.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12205
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12206?sni=123.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12206
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12207?sni=124.yuanul.com#%E6%9C%AA%E7%9F%A5143
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12207?sni=124.yuanul.com#%E6%9C%AA%E7%9F%A586
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12207?sni=124.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12207
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12208?sni=125.yuanul.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12208
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13201?sni=133.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:13201
@@ -308,13 +345,13 @@ trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13206?sni=139.yuanul.co
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13207?sni=140.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:13207
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13208?sni=141.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:13208
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14101?sni=152.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:14101
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14102?sni=154.yuanul.com#%E6%9C%AA%E7%9F%A574
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14102?sni=154.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:14102
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14103?sni=155.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:14103
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14104?sni=156.yuanul.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:14104
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14105?sni=157.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:14105
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:14106?sni=162.yuanul.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:14106
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23000?sni=73.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:23000
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23001?sni=75.yuanul.com#%E6%9C%AA%E7%9F%A5119
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23001?sni=75.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:23001
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23002?sni=76.yuanul.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:23002
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23003?sni=sni.eos-suzhou-4.cmecloud.cn#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:23003
@@ -351,16 +388,17 @@ trojan://74260712244661900@87.120.252.180:443?allowInsecure=0#🔒 TR-TCP-NA �
 trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13655?security=tls&sni=tw.lihua.click&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-154.64.246.217:13655
 trojan://7634a410-0a7d-11f0-acfd-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://765657b0-ceb7-11ef-b882-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://7701ddf5-6a48-401b-a3ec-8af52b6deb48@104.21.32.1:443?security=tls&sni=SsXcDFGty.99890604.XYZ&type=ws&host=ssxcdfgty.99890604.xyz&path=%2FQRNs4ue90AX3hweBopuhWEbIX&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.1:443
+trojan://7701ddf5-6a48-401b-a3ec-8af52b6deb48@104.21.48.1:443?security=tls&sni=SsXcDFGty.99890604.XYZ&type=ws&host=ssxcdfgty.99890604.xyz&path=%2FQRNs4ue90AX3hweBopuhWEbIX&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.48.1:443
+trojan://7701ddf5-6a48-401b-a3ec-8af52b6deb48@104.21.80.1:443?security=tls&sni=SsXcDFGty.99890604.XYZ&type=ws&host=ssxcdfgty.99890604.xyz&path=%2FQRNs4ue90AX3hweBopuhWEbIX&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.1:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@104.21.3.60:443?sni=ssloa1.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.3.60:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@104.22.5.205:443?sni=ssp2.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.5.205:443
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.130:443?sni=ssp2.100896.xyz#%E6%9C%AA%E7%9F%A543
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.130:443?sni=ssp2.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.196.130:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.69:443?sni=ssanj01.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.196.69:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.198.165:443?sni=ssp1.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.198.165:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.114.154:443?sni=ssp1.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.114.154:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.115.138:443?sni=ssp6.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.115.138:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@141.101.120.10:443?sni=ssp2.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.120.10:443
-trojan://7743e1b5-d301-4a66-b765-17094890fae2@162.159.128.101:443?sni=ssp1.100896.xyz#%E6%9C%AA%E7%9F%A573
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@162.159.128.101:443?sni=ssp1.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.128.101:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@172.67.152.188:443?sni=ssp1.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.152.188:443
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@172.67.153.59:443?sni=ssanj01.100896.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.153.59:443
@@ -376,17 +414,19 @@ trojan://78ddda10-2132-11f0-89cb-1239d0255272@fr1.test3.net:443?security=tls&amp
 trojan://79948ddf-fd26-466c-ab37-e3ad41acf08f@de1.trojvpn.site:443?host=de1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
 trojan://7Rn3apKRaY3ceZYDn3DlKSBNT0aEC08y6zADl84FI9waq8CF2yxO2X9u8jegx5uAODjcE@52.78.39.86:443?security=tls&sni=bapus.koreanbbq.link#🔒 TR-TCP-TLS 🇰🇷 KR-52.78.39.86:443
 trojan://7cf2d310-489f-11f0-8746-1239d0255272@15.204.234.166:443?security=tls&sni=usa.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-15.204.234.166:443
-trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🌐سرور 639 | Tir-02| MTSRVRS
-trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🌐سرور 640 | Tir-02| MTSRVRS
+trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🌐سرور 1120 | Tir-03| MTSRVRS
+trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#🌐سرور 1121 | Tir-03| MTSRVRS
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443?security=tls&sni=in.stablize.top&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://7d4fa9d0-f389-11ef-b18e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#🌐سرور 991 | Tir-02| MTSRVRS
-trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#🌐سرور 992 | Tir-02| MTSRVRS
-trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?security=tls&sni=nl1.grtj.sulindac.top&type=grpc&serviceName=nl1.grtj.sulindac.top#🔒 TR-GRPC-TLS 🇮🇷 IR-109.230.91.202:443
+trojan://7d858e5a-664e-419f-b6a1-c3bceb8ac208@45.146.232.171:27102?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:27102
+trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#🌐سرور 1138 | Tir-03| MTSRVRS
+trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#🌐سرور 1139 | Tir-03| MTSRVRS
+trojan://7ee633a0-0490-4607-9a88-4b7299dabecb@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=nl1.grtj.sulindac.top&sni=nl1.grtj.sulindac.top#IR🇮🇷 | nl1.grtj.sulindac.top-443 | 428.83ms
 trojan://7ee633a0-0490-4607-9avless://ec46cba7-458c-81b1-ade9-5471757087d1@212.80.18.216:2894?security=none&type=ws&host=bama.ir&path=%2F#🔒 TR-WS-NONE 🇮🇷 IR-212.80.18.216:2894
 trojan://7f2b54d0-c85d-11ef-9e18-1239d0255272@51.210.182.170:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://7fd44b70-b877-11ee-b55a-1239d0255272@51.210.182.170:443?security=tls&sni=yahoo.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-135.148.148.4:80
+trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&type=tcp&sni=us3.trojanvh.xyz#US9
 trojan://803200a0-ceb8-11ef-9955-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://80e11690-29cc-11f0-bfc7-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://80e11690-29cc-11f0-bfc7-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%98
@@ -397,6 +437,7 @@ trojan://8264f515-90b6-4152-9830-7abc0ec215c6@94.131.20.3:443?security=tls&sni=d
 trojan://82bacaef-f56f-4ac4-9db3-d4754a06d1ef@104.21.63.226:443?security=tls&sni=xCdFvgBHy6.457.Pp.uA&type=ws&host=xcdfvgbhy6.457.pp.ua&path=%2FZZAdBLCxFJcxuB8N6K0sBs&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.63.226:443
 trojan://82bacaef-f56f-4ac4-9db3-d4754a06d1ef@172.67.172.91:443?security=tls&sni=xCdFvgBHy6.457.Pp.uA&type=ws&host=xcdfvgbhy6.457.pp.ua&path=%2FZZAdBLCxFJcxuB8N6K0sBs&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.172.91:443
 trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.40.215:443?security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&type=ws&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.40.215:443
+trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.40.215:443?security=tls&type=ws&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=/images&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com#%E6%9C%AA%E7%9F%A5128
 trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.41.28:443?security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&type=ws&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.41.28:443
 trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.42.228:443?security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&type=ws&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.42.228:443
 trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.43.41:443?security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&type=ws&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.43.41:443
@@ -413,11 +454,11 @@ trojan://85f133142f04dbf6547da33895cfabb3@116.31.75.150:39001/?type=tcp&security
 trojan://85f133142f04dbf6547da33895cfabb3@116.31.75.150:39001?allowInsecure=1&sni=www.yrtok.com#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://85f133142f04dbf6547da33895cfabb3@116.31.75.150:39001?security=tls&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
 trojan://85f133142f04dbf6547da33895cfabb3@116.31.75.150:39001?sni=www.yrtok.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-116.31.75.150:39001
-trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?allowInsecure=1&sni=120.233.128.68#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?security=tls&sni=120.233.128.68&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40stairnode
 trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?security=tls&sni=120.233.128.68&allowInsecure=1&type=tcp&headerType=none#13%2C14%2C15%7CCN_speednode_0002
 trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?security=tls&sni=120.233.128.68&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.128.68:39001
 trojan://85f133142f04dbf6547da33895cfabb3@120.233.128.68:39001?security=tls&sni=120.233.128.68&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
+trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?allowInsecure=0&sni=www.yrtok.com#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%28%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%B7%AF111%E5%8F%B7%29
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?security=tls&sni=www.yrtok.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-203.156.253.11:39001
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?security=tls&sni=www.yrtok.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.12:39001?security=tls&sni=www.yrtok.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-203.156.253.12:39001
@@ -427,8 +468,6 @@ trojan://8668e913-09cb-4d46-8027-a7501f1224dd@is3.trojvpn.site:443?host=is3.troj
 trojan://86797df0-2132-11f0-b942-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://86797df0-2132-11f0-b942-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%E2%9D%A3%EF%B8%8F
 trojan://87ec85ad-8e8e-40a0-9b23-1fa8217c9647@147.182.135.198:443?security=tls&sni=us-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20North%20Bergen%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@103.224.182.210:443?security=tls&sni=jp1.sanfen001.pics#US🇺🇸 | jp1.sanfen001.pics-443 | 87.58ms
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@103.224.182.210:443?security=tls&sni=kr1.sanfen001.pics&allowInsecure=1#US🇺🇸 | kr1.sanfen001.pics-443 | 228.08ms
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@103.224.182.210:443?security=tls&sni=kr1.sanfen001.pics&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-103.224.182.210:443
 trojan://882f187b-feb1-4be7-8678-32460f1ecfe6@134.199.175.139:443?security=tls&sni=au-full.privateip.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20-%20Sydney%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443?security=tls&sni=polo01.kctr2038.icu&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -442,12 +481,9 @@ trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.210.210:443?sni=sanjose04.8
 trojan://89d019c0-f389-11ef-9c51-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.44.182:443?security=tls&sni=JoInMAHdisErVER-78D.PaGEs.DEV&type=ws&host=joinmahdiserver-78d.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.182:443
 trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.47.74:443?security=tls&sni=JoInMAHdisErVER-78D.PaGEs.DEV&type=ws&host=joinmahdiserver-78d.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.74:443
-trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.47.74:443?security=tls&type=ws&sni=JoInMAHdisErVER-78D.PaGEs.DEV&host=joinmahdiserver-78d.pages.dev#%E6%9C%AA%E7%9F%A576
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-13.76.251.170:443
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@18.139.125.206:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#GB🇬🇧 | jp.iamnotagoodman.com-443 | 159.4ms
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@18.139.125.206:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-18.139.125.206:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.189.95.198:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.189.95.198:443
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.189.98.59:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#GB🇬🇧 | jp.iamnotagoodman.com-443 | 115.35ms
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.189.98.59:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.189.98.59:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.145.160:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.145.160:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.151.113:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.151.113:443
@@ -455,7 +491,6 @@ trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.152.182:443?security=tls&sni=
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.156.167:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.156.167:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.156.167:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.156.182:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.156.182:443
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.202.175:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#GB🇬🇧 | jp.iamnotagoodman.com-443 | 564.43ms
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.202.175:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.202.175:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.28.57:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.28.57:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.32.82:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.2.32.82:443
@@ -464,14 +499,11 @@ trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.44.220:443?security=tls&sni=j
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.249.156:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.255.249.156:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.73.213:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.255.73.213:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443?security=tls&sni=jp.iamnotagoodman.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-20.255.74.102:443
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@23.97.77.209:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#GB🇬🇧 | jp.iamnotagoodman.com-443 | 170.27ms
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@23.97.77.209:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-23.97.77.209:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@3.1.197.234:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-3.1.197.234:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@3.1.74.160:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-3.1.74.160:443
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@46.137.251.176:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#GB🇬🇧 | jp.iamnotagoodman.com-443 | 112.07ms
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@46.137.251.176:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-46.137.251.176:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@52.175.22.11:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-52.175.22.11:443
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@52.175.31.148:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#GB🇬🇧 | jp.iamnotagoodman.com-443 | 348.07ms
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@52.175.31.148:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-52.175.31.148:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@52.229.189.21:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-52.229.189.21:443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@54.251.189.238:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-54.251.189.238:443
@@ -498,6 +530,7 @@ trojan://9022b080-2132-11f0-9bd5-1239d0255272@fr1.test3.net:443?security=tls&amp
 trojan://90720280-0373-11f0-8b53-1239d0255272@51.210.182.170:443?allowInsecure=1#🔒 TR-TCP-NA 🇫🇷 FR-51.210.182.170:443
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@13.113.216.235:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-13.113.216.235:20230
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@13.114.50.167:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-13.114.50.167:20230
+trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@35.72.4.122:20230?security=tls&sni=jp006.421421.xyz#%E6%9C%AA%E7%9F%A5104
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@35.72.4.122:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-35.72.4.122:20230
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@52.197.131.164:20230?security=tls&sni=jp005.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-52.197.131.164:20230
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@57.180.33.24:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-57.180.33.24:20230
@@ -505,19 +538,18 @@ trojan://931a7cc0-1af3-11f0-be3c-1239d0255272@51.210.182.170:443?security=tls&sn
 trojan://931a7cc0-1af3-11f0-be3c-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%9E
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?security=tls&sni=md1.safecdn.site&type=ws&host=md1.safecdn.site&path=/Telegram@FreeV2Alpha#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443?security=tls&sni=md1.safecdn.site&type=ws&host=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.15.85:443
+trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443?security=tls&type=ws&sni=md1.safecdn.site&path=%2FChannel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#MD🇲🇩 | md1.safecdn.site-443 | 149.16ms
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@172.67.73.163:443?security=tls&sni=md1.safecdn.site&type=ws&host=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.163:443
 trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@111.47.212.170:20278?sni=z278.hongkongnode.top&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-111.47.212.170:20278
 trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@111.47.212.170:20306?sni=z306.hongkongnode.top&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-111.47.212.170:20306
 trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@111.47.212.170:54178?sni=x115.flybar.work&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-111.47.212.170:54178
 trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@104.21.58.135:443?security=tls&sni=yyyyyyyyyyy.818185.xyz&type=ws&host=yyyyyyyyyyy.818185.xyz&path=%2FORgwL4kEvW32T1dU239ar&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.58.135:443
-trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@172.67.204.75:443?security=tls&sni=zzzzzzzzzzzzcd.818185.xyz&type=ws&host=zzzzzzzzzzzzcd.818185.xyz&path=/ORgwL4kEvW32T1dU239ar#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.75:443
-trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@172.67.204.75:443?security=tls&type=ws&sni=zzzzzzzzzzzzcd.818185.xyz&path=/ORgwL4kEvW32T1dU239ar&host=zzzzzzzzzzzzcd.818185.xyz#%E6%9C%AA%E7%9F%A5146
+trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@172.67.204.75:443?security=tls&sni=zzzzzzzzzzzzcd.818185.xyz&type=ws&host=zzzzzzzzzzzzcd.818185.xyz&path=%2FORgwL4kEvW32T1dU239ar&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.75:443
 trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@51.159.59.186:443?security=tls&sni=zula.ir#🔒 TR-TCP-TLS 🇫🇷 FR-51.159.59.186:443
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@159.65.14.166:443?security=tls&sni=std1.loadingip.com&type=raw&allowInsecure=1#🔒 TR-RAW-TLS 🇸🇬 SG-159.65.14.166:443
 trojan://9518fb90-f389-11ef-bc5a-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://95b1bf00-29cc-11f0-ab96-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://95b1bf00-29cc-11f0-ab96-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%9C
-trojan://95b@43.129.171.137:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#RELAY🚩 | 68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org-443 | 78.18ms
 trojan://95b@43.129.171.137:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#🔒 TR-TCP-TLS 🇭🇰 HK-43.129.171.137:443
 trojan://95b@65.75.194.43:10511?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-65.75.194.43:10511
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:2053?security=tls&sni=official.tokyometropolis.kharkov.ua&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-183.240.139.234:2053
@@ -526,10 +558,8 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.co.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1#CN🇨🇳 | official.taipeicitygovernment.com.ua-8443 | 618.79ms
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-183.240.139.234:8443
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.dp.ua&allowInsecure=1#CN🇨🇳 | official.taipeicitygovernment.dp.ua-8443 | 703.55ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.dp.ua&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-183.240.139.234:8443
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.kyiv.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
@@ -539,28 +569,23 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:2053?security=tls&
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.biz.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.co.ua&allowInsecure=1#CN🇨🇳 | official.taipeicitygovernment.co.ua-8443 | 385.88ms
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.co.ua&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-183.240.139.235:8443
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.if.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.kyiv.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1#CN🇨🇳 | official.taipeicitygovernment.net.ua-8443 | 955.21ms
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1#CN🇨🇳 | official.taipeicitygovernment.org.ua-8443 | 882.26ms
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.org.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20China%20-%20Guangzhou%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:2053?security=tls&sni=official.seoulcityhall.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443?security=tls&sni=official.seoulcitygovernment.com.ua&allowInsecure=1#KR🇰🇷 | official.seoulcitygovernment.com.ua-8443 | 234.76ms
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443?security=tls&sni=official.seoulcitygovernment.com.ua&allowInsecure=1#🔒 TR-TCP-TLS 🇰🇷 KR-203.210.16.78:8443
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443?security=tls&sni=official.seoulcitygovernment.com.ua&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
+trojan://96cad374-7573-4463-8804-4665c2c3d932@18.143.93.20:6001?allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-18.143.93.20:6001
 trojan://96cad374-7573-4463-8804-4665c2c3d932@47.128.216.161:6001?security=tls&sni=ho82IA13QmjF5Atv.apple.com#🔒 TR-TCP-TLS 🇸🇬 SG-47.128.216.161:6001
-trojan://96cad374-7573-4463-8804-4665c2c3d932@52.77.220.89:6001?security=tls&sni=tj-hk-2.aikunapp.com&allowInsecure=1#US🇺🇸 | tj-hk-2.aikunapp.com-6001 | 123.4ms
 trojan://96cad374-7573-4463-8804-4665c2c3d932@52.77.220.89:6001?security=tls&sni=tj-hk-2.aikunapp.com&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-52.77.220.89:6001
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9773a2c0-066f-11f0-a146-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20NA%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.159.5:443
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&type=tcp&sni=bangladeshipatri.com#%E6%9C%AA%E7%9F%A5105
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
 trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443?security=tls&sni=fscus.fscloud123456789.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://9FC33glcaEeYYTnOqOS9DOZgBZ5CDazy33SCS2j4Cz36A7AIN88uaKRx5xDyR8pxu3x4D@154.17.31.220:28332?security=tls&sni=closet.homeofbrave.net#🔒 TR-TCP-TLS 🇺🇸 US-154.17.31.220:28332
@@ -578,28 +603,3 @@ trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@20.2.156.167:443?security=tls&sni=
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@20.2.156.167:443?security=tls&sni=tr.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@20.2.156.167:443?security=tls&sni=usla.mjt001.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20Hong%20Kong%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://9d98f590-d294-11ef-b412-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://9e31fcb0-e617-11ef-95f3-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?sni=m2rrrty.777219.xyz&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.86.140:443
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=/duJhdsnTCbijwHNYeMcCs9#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.220.93:443
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&type=ws&sni=m2rrrty.777219.xyz&path=/duJhdsnTCbijwHNYeMcCs9&host=m2rrrty.777219.xyz#%E6%9C%AA%E7%9F%A5100
-trojan://9eabd870-29cc-11f0-b0a3-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://9eabd870-29cc-11f0-b0a3-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9
-trojan://9f3a6150-f389-11ef-8c6c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir&type=ws&host=khabaronline.itn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.71.8:2053
-trojan://9kHuEbiX7Bcp@172.67.141.68:2053?security=tls&sni=khabaronline.itn24.ir&type=ws&host=khabaronline.itn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.141.68:2053
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#RELAY🚩 | production.tj.ojan.workers.dev-443 | 84.47ms
-trojan://AOmMqv1BPu@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#🌐سرور 1415 | Tir-02| MTSRVRS
-trojan://AOmMqv1BPu@wivip.dtsazino.com:443?security=tls&headerType=none&type=tcp&sni=wivip.dtsazino.com#🌐سرور 1416 | Tir-02| MTSRVRS
-trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
-trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#🌐سرور 132 | Tir-02| MTSRVRS
-trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#🌐سرور 133 | Tir-02| MTSRVRS
-trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&sni=x2swe-ovh.devefun.net&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-141.227.160.167:1935
-trojan://Aimer@103.116.7.100:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-103.116.7.100:2087
-trojan://Aimer@103.116.7.103:2083?sni=epcch.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.103:2083
-trojan://Aimer@103.116.7.133:2083?security=tls&sni=epmo.ambercc.filegear-sg.me&type=ws&host=epmo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.133:2083
-trojan://Aimer@103.116.7.152:2096?sni=epme.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.152:2096
-trojan://Aimer@103.116.7.189:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.189:443
-trojan://Aimer@103.116.7.220:2096?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.220:2096
-trojan://Aimer@103.116.7.230:443?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.230:443
-trojan://Aimer@103.116.7.235:443?sni=epcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.235:443
-trojan://Aimer@103.116.7.248:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-103.116.7.248:443
