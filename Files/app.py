@@ -82,6 +82,17 @@ def main():
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
+        "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_BASE64.txt",
+        "https://shadowmere.xyz/api/b64sub/",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/hy2",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/reality",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/xhttp",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/ss",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/trojan",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/vless",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/tuic",
+        "https://raw.githubusercontent.com/10ium/telegram-configs-collector/main/splitted/mixed",
         "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt",
         "https://raw.githubusercontent.com/Ashkan-m/v2ray/refs/heads/main/Sub.txt",
         "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/clashmeta.txt",
@@ -128,6 +139,14 @@ def main():
     dir_links = [
         "https://raw.githubusercontent.com/10ium/V2Hub3/main/merged",
         "https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+        "https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+        "https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/normal/mix",
+        "https://raw.githubusercontent.com/10ium/V2Hub3/main/merged",
+        "https://raw.githubusercontent.com/10ium/V2RayAggregator/refs/heads/master/Eternity.txt",
+        "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/mixed_iran.txt",
+        "https://raw.githubusercontent.com/10ium/V2rayCollector/main/mixed_iran.txt",
+        "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
+        "https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_content_all.txt",
         "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Bahrain/config.txt",
         "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Germany/config.txt",
         "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/refs/heads/main/sub/Netherlands/config.txt",
