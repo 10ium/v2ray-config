@@ -139,9 +139,7 @@ def main():
     dir_links = [
         "https://raw.githubusercontent.com/10ium/V2Hub3/main/merged",
         "https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
-        "https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
         "https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/normal/mix",
-        "https://raw.githubusercontent.com/10ium/V2Hub3/main/merged",
         "https://raw.githubusercontent.com/10ium/V2RayAggregator/refs/heads/master/Eternity.txt",
         "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/mixed_iran.txt",
         "https://raw.githubusercontent.com/10ium/V2rayCollector/main/mixed_iran.txt",
@@ -176,7 +174,6 @@ def main():
         "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/IR.txt",
         "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random",
         "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/converted.txt",
-        "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/selector/random",
         "https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/refs/heads/master/providers/ir",
         "https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/v2ray.txt",
         "https://raw.githubusercontent.com/freedomnet25500/newyearsub/refs/heads/main/ss",
