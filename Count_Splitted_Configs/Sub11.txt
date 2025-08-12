@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/10ium/V2ray-Config
 #profile-web-page-url: https://github.com/10ium/V2ray-Config
+trojan://765657b0-ceb7-11ef-b882-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
+trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?security=tls&sni=zaelot.cc&type=tcp&headerType=none&host=zaelot.cc#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B43%5D
+trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?security=tls&sni=zaelot.cc&type=tcp&headerType=none&host=zaelot.cc#🇩🇪 DE | 🔒 TROJAN | @v2rayngconfig [43]
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443?security=tls&sni=download2hkt.windowsupdate.lol&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20NA%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://7794ad20-ec7d-11ef-b7be-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://78ddda10-2132-11f0-89cb-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40teamvpnpro%20%5B2%5D
@@ -22,16 +26,18 @@ trojan://790f4282-a179-446e-bc2a-4eba58e669d5@us003.421421.xyz:20230?allowInsecu
 trojan://790f4282-a179-446e-bc2a-4eba58e669d5@us004.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E7%BE%8E%E5%9B%BD04
 trojan://79948ddf-fd26-466c-ab37-e3ad41acf08f@de1.trojvpn.site:443?host=de1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40ip_cf_config%20%5B11%5D
-trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#@vpnclashfa - 542
-trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#US🇺🇸 | vzwzasc.cn-443 | 1724.17ms
+trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#@vpnclashfa - 46
+trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#US🇺🇸 | vzwzasc.cn-443 | 1290.23ms
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]
 trojan://7ac49a893e0bd10c@139.162.84.183:3306?security=tls&type=ws&sni=vkvd127.mycdn.me&path=/gateway/connect&host=139.162.84.183#@Hope_Net-join-us-on-Telegram
-trojan://7ac49a893e0bd10c@139.162.84.183:3306?security=tls&type=ws&sni=vkvd127.mycdn.me&path=/gateway/connect&host=139.162.84.183#@vpnclashfa - 543
+trojan://7ac49a893e0bd10c@139.162.84.183:3306?security=tls&type=ws&sni=vkvd127.mycdn.me&path=/gateway/connect&host=139.162.84.183#@vpnclashfa - 47
 trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443?security=tls&sni=in.stablize.top&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://7d4fa9d0-f389-11ef-b18e-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://7d71464f-47de-40fc-b552-886d4147f22b@36.231.107.166:3663?sni=tw07.352343.cc&allowInsecure=1#🔒 TR-TCP-NA 🇹🇼 TW-36.231.107.166:3663
+trojan://7d71464f-47de-40fc-b552-886d4147f22b@36.231.110.198:3663?sni=tw07.352343.cc&allowInsecure=1#🔒 TR-TCP-NA 🇹🇼 TW-36.231.110.198:3663
 trojan://7d71464f-47de-40fc-b552-886d4147f22b@36.231.70.107:3663?sni=tw11.352343.cc&allowInsecure=1#🔒 TR-TCP-NA 🇹🇼 TW-36.231.70.107:3663
+trojan://7d71464f-47de-40fc-b552-886d4147f22b@tw07.352343.cc:3663?sni=tw07.352343.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20TW%20DCBG%2006
+trojan://7d71464f-47de-40fc-b552-886d4147f22b@tw11.352343.cc:3663?sni=tw11.352343.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20TW%20DCBG%2013
 trojan://813e7fc5-2c9a-4967-802b-6443930ecb7e@jp005.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC05
 trojan://813e7fc5-2c9a-4967-802b-6443930ecb7e@jp006.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC06
 trojan://813e7fc5-2c9a-4967-802b-6443930ecb7e@jp007.421421.xyz:20230?allowInsecure=1&peer=www.alibaba.com&sni=www.alibaba.com&type=ws#%E6%97%A5%E6%9C%AC07
@@ -49,17 +55,16 @@ trojan://823fb040-ec7d-11ef-97dd-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://848c0c41-71de-453b-9b29-bd85c66369e3@us1.trojvpn.site:443?host=us1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
 trojan://8668e913-09cb-4d46-8027-a7501f1224dd@is3.trojvpn.site:443?host=is3.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
 trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2047#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.29.75:443
-trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?security=tls&type=ws&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2047&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev#RELAY🚩 | uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev-443 | 33.64ms
-trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?security=tls&type=ws&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=/Telegram@V2ray_Alpha/?ed=2047&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&host=argodev11222.pages.dev#@Hope_Net-join-us-on-Telegram
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&host=argodev11222.pages.dev#@vpnclashfa - 544
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&host=argodev11222.pages.dev#RELAY🚩 | ArGodev11222.PaGes.Dev-2083 | 32.49ms
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.39.232:2083
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&host=argodev11222.pages.dev#RELAY🚩 | ArGodev11222.PaGes.Dev-2083 | 67.81ms
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&type=ws&sni=blOOM-cHh.pAges.DeV&path=/Telegram@V2ray_Alpha/?ed=2048&host=blOOM-cHh.pAges.DeV#@Hope_Net-join-us-on-Telegram
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&type=ws&sni=blOOM-cHh.pAges.DeV&path=/Telegram@V2ray_Alpha/?ed=2048&host=blOOM-cHh.pAges.DeV#@vpnclashfa - 48
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?security=none&type=ws&path=/4u7lAS4nPLtz0xPz?ed=2560&host=samane.ir#@Hope_Net-join-us-on-Telegram
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?security=none&type=ws&path=/4u7lAS4nPLtz0xPz?ed=2560&host=samane.ir#@vpnclashfa - 49
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20down
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40ip_cf_config%20%5B13%5D
-trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#@vpnclashfa - 545
-trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 3.65ms
+trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#@vpnclashfa - 50
+trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 29.58ms
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=%2FyethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]
 trojan://8c6efac3-13fe-412e-a25b-9aeb7f5efc4e@at1.trojvpn.site:443?host=at1.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
@@ -88,8 +93,8 @@ trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=tls&sn
 trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443?security=tls&sni=fscus.fscloud123456789.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20TR-TCP-TLS%204%E2%83%A3
 trojan://9a3313c0-ceb8-11ef-a476-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9a358480-2132-11f0-bf3f-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://9b6419f8-8120-442e-a48c-6bf52aef0abf@test.hdcloud.link:443?allowInsecure=1#%E6%B5%8B%E8%AF%95
-trojan://9b6419f8-8120-442e-a48c-6bf52aef0abf@test.hdcloud.link:443?allowInsecure=1#%E8%BF%87%E6%BB%A4%E6%8E%894%E6%9D%A1%E7%BA%BF%E8%B7%AF
+trojan://9b6419f8-8120-442e-a48c-6bf52aef0abf@test.hdcloud.link:4430?allowInsecure=1&peer=static.icloud.com&sni=static.icloud.com#%E6%B5%8B%E8%AF%95
+trojan://9b6419f8-8120-442e-a48c-6bf52aef0abf@test.hdcloud.link:4430?allowInsecure=1&peer=static.icloud.com&sni=static.icloud.com#%E8%BF%87%E6%BB%A4%E6%8E%894%E6%9D%A1%E7%BA%BF%E8%B7%AF
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.216.177:443?security=tls&sni=us03.ssr.ee&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.220.143:443?security=tls&sni=us01.ssr.ee&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%F0%9F%8C%8E%20TR-TCP-TLS%204%E2%83%A3
 trojan://9d98f590-d294-11ef-b412-1239d0255272@51.210.182.170:443?security=tls&sni=fr1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
@@ -98,508 +103,503 @@ trojan://9eabd870-29cc-11f0-b0a3-1239d0255272@51.210.182.170:443?security=tls&sn
 trojan://9f3a6150-f389-11ef-8c6c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#@vpnclashfa - 546
-trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#RELAY🚩 | production.tj.ojan.workers.dev-443 | 32.9ms
+trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#@vpnclashfa - 51
+trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#RELAY🚩 | production.tj.ojan.workers.dev-443 | 86.68ms
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
-trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#@vpnclashfa - 547
-trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 6.08ms
-trojan://Aimer@102.134.55.53:20082?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-trojan://Aimer@103.116.7.100:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
-trojan://Aimer@103.116.7.103:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
+trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#@vpnclashfa - 52
+trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 29.87ms
+trojan://Aimer@102.134.55.53:20082?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BF%F0%9F%87%A6%20%E5%8D%97%E9%9D%9E%2001
+trojan://Aimer@103.116.7.100:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.100:2087
+trojan://Aimer@103.116.7.100:2087?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20128
 trojan://Aimer@103.116.7.103:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.103:2083
-trojan://Aimer@103.116.7.152:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.152:2096
-trojan://Aimer@103.116.7.230:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
-trojan://Aimer@103.116.7.248:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
-trojan://Aimer@103.116.7.67:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
-trojan://Aimer@103.76.85.178:30002?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@104.129.166.131:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@103.116.7.230:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.230:443
+trojan://Aimer@103.116.7.248:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.248:443
+trojan://Aimer@103.116.7.67:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#JP_speednode_0069
+trojan://Aimer@103.116.7.67:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.67:2083
+trojan://Aimer@103.116.7.67:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20151
+trojan://Aimer@103.76.85.178:30002?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-103.76.85.178:30002
 trojan://Aimer@104.129.166.131:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-104.129.166.131:8443
-trojan://Aimer@104.129.167.255:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@104.129.166.131:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20205
 trojan://Aimer@104.129.167.255:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-104.129.167.255:8443
-trojan://Aimer@104.17.180.243:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.180.243:443
-trojan://Aimer@104.19.239.137:2087?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-104.19.239.137:2087
-trojan://Aimer@104.19.4.237:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.4.237:8443
-trojan://Aimer@104.19.60.193:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.60.193:2083
-trojan://Aimer@104.19.60.99:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.60.99:2087
-trojan://Aimer@107.173.111.232:20082?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@104.19.239.137:2087?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.239.137:2087
+trojan://Aimer@104.19.60.193:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20249
+trojan://Aimer@104.19.60.99:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0262
+trojan://Aimer@104.19.60.99:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20010
+trojan://Aimer@104.19.60.99:2087?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 53
+trojan://Aimer@104.19.60.99:2087?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+trojan://Aimer@104.19.60.99:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.60.99:2087
+trojan://Aimer@107.173.111.232:20082?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0266
+trojan://Aimer@107.173.111.232:20082?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-107.173.111.232:20082
 trojan://Aimer@108.162.193.110:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.193.110:443
 trojan://Aimer@108.162.193.128:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.193.128:443
 trojan://Aimer@108.162.193.144:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.193.144:443
-trojan://Aimer@108.162.193.162:2053?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-108.162.193.162:2053
 trojan://Aimer@108.162.193.201:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.193.201:443
-trojan://Aimer@108.162.194.193:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.194.193:443
-trojan://Aimer@108.162.194.221:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.194.221:2096
+trojan://Aimer@108.162.194.221:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20045
 trojan://Aimer@108.162.195.127:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.127:443
-trojan://Aimer@108.162.195.168:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.168:443
+trojan://Aimer@108.162.195.168:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.168:443
 trojan://Aimer@108.162.195.199:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.199:443
 trojan://Aimer@108.162.195.227:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.227:443
 trojan://Aimer@108.162.195.236:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.236:443
 trojan://Aimer@108.162.195.82:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.82:443
-trojan://Aimer@108.165.152.0:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.113:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@108.165.152.0:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.0:8443
 trojan://Aimer@108.165.152.113:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.113:443
-trojan://Aimer@108.165.152.163:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.163:2087
-trojan://Aimer@108.165.152.169:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.169:2087
-trojan://Aimer@108.165.152.175:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.1:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@108.165.152.175:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0276
+trojan://Aimer@108.165.152.175:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.175:2096
+trojan://Aimer@108.165.152.1:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0269
 trojan://Aimer@108.165.152.1:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.1:2087
-trojan://Aimer@108.165.152.202:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.204:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.204:2096
-trojan://Aimer@108.165.152.219:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.219:443
-trojan://Aimer@108.165.152.241:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.252:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.25:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.25:2087
-trojan://Aimer@108.165.152.29:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.31:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.59:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.66:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.66:2083
-trojan://Aimer@108.165.152.71:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.71:443
-trojan://Aimer@108.165.152.76:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.76:2096
-trojan://Aimer@108.165.152.78:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.80:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.91:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.91:2083
-trojan://Aimer@114.30.58.20:12345?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@115.22.115.218:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@119.194.79.217:10254?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@119.206.114.168:50001?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@119.207.56.167:18045?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-119.207.56.167:18045
-trojan://Aimer@121.165.36.35:12367?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@121.167.146.253:12902?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@121.66.32.174:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-121.66.32.174:50000
-trojan://Aimer@125.139.152.24:12429?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2034
-trojan://Aimer@125.139.152.24:12429?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-125.139.152.24:12429
-trojan://Aimer@125.141.4.132:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@130.250.137.63:2083?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-130.250.137.63:2083
-trojan://Aimer@135.84.64.36:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@14.39.43.121:10302?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-14.39.43.121:10302
-trojan://Aimer@14.46.199.74:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-14.46.199.74:50000
-trojan://Aimer@141.11.203.168:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇫🇷 FR-141.11.203.168:443
-trojan://Aimer@141.11.203.191:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20115
-trojan://Aimer@141.11.203.191:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇫🇷 FR-141.11.203.191:8443
+trojan://Aimer@108.165.152.202:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0273
+trojan://Aimer@108.165.152.202:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.202:2083
+trojan://Aimer@108.165.152.204:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20087
+trojan://Aimer@108.165.152.219:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.219:443
+trojan://Aimer@108.165.152.241:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.241:2053
+trojan://Aimer@108.165.152.252:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.252:2096
+trojan://Aimer@108.165.152.29:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.29:2096
+trojan://Aimer@108.165.152.29:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20129
+trojan://Aimer@108.165.152.31:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.31:2083
+trojan://Aimer@108.165.152.59:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0278
+trojan://Aimer@108.165.152.59:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.59:2087
+trojan://Aimer@108.165.152.66:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 54
+trojan://Aimer@108.165.152.66:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B3
+trojan://Aimer@108.165.152.66:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.66:2083
+trojan://Aimer@108.165.152.76:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
+trojan://Aimer@108.165.152.78:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0267
+trojan://Aimer@108.165.152.78:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.78:2083
+trojan://Aimer@108.165.152.78:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20122
+trojan://Aimer@108.165.152.80:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.80:2083
+trojan://Aimer@108.165.152.91:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.91:2083
+trojan://Aimer@114.30.58.20:12345?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-114.30.58.20:12345
+trojan://Aimer@115.22.115.218:50000?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0070
+trojan://Aimer@115.22.115.218:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-115.22.115.218:50000
+trojan://Aimer@119.206.114.168:50001?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-119.206.114.168:50001
+trojan://Aimer@119.207.56.167:18045?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-119.207.56.167:18045
+trojan://Aimer@121.165.36.35:12367?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-121.165.36.35:12367
+trojan://Aimer@121.167.146.253:12902?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0077
+trojan://Aimer@121.167.146.253:12902?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-121.167.146.253:12902
+trojan://Aimer@135.84.64.36:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0260
+trojan://Aimer@135.84.64.36:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-135.84.64.36:2083
+trojan://Aimer@14.39.43.121:10302?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2041
+trojan://Aimer@14.39.43.121:10302?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2007
+trojan://Aimer@141.11.203.168:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇫🇷 FR-141.11.203.168:443
 trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20down
-trojan://Aimer@147.78.243.148:1443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@148.135.119.101:57478?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA_%E7%91%9E%E5%85%B8
-trojan://Aimer@150.109.11.223:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC_%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://Aimer@154.17.10.113:12266?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@154.197.64.104:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.197.64.166:2053?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇸🇨 SC-154.197.64.166:2053
-trojan://Aimer@154.197.64.196:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.197.64.219:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.197.64.228:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.228:2083
-trojan://Aimer@154.197.64.233:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.197.64.240:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.197.64.248:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.197.64.67:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.197.64.98:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.98:8443
-trojan://Aimer@154.211.8.109:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.109:2087
-trojan://Aimer@154.211.8.150:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.211.8.150:2096?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-154.211.8.150:2096
-trojan://Aimer@154.211.8.227:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.211.8.47:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.47:2096
-trojan://Aimer@154.211.8.84:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.84:2083
-trojan://Aimer@154.219.5.249:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.219.5.44:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.219.5.55:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.219.5.65:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.23.172.19:11000?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@154.26.182.37:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@155.46.213.38:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@158.101.131.94:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5_%E6%97%A5%E6%9C%AC
-trojan://Aimer@160.79.105.160:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-160.79.105.160:8443
-trojan://Aimer@161.145.150.14:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@161.145.150.14:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-161.145.150.14:443
-trojan://Aimer@161.145.150.26:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-161.145.150.26:2087
-trojan://Aimer@161.145.150.29:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@162.120.94.232:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@162.120.94.23:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-162.120.94.23:2087
-trojan://Aimer@162.159.128.78:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.78:443
+trojan://Aimer@147.78.243.148:1443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-147.78.243.148:1443
+trojan://Aimer@148.135.119.101:57478?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-148.135.119.101:57478
+trojan://Aimer@148.135.119.101:57478?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20196
+trojan://Aimer@150.109.11.223:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-150.109.11.223:443
+trojan://Aimer@154.17.10.113:12266?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0246
+trojan://Aimer@154.17.10.113:12266?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.17.10.113:12266
+trojan://Aimer@154.197.64.104:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SC_speednode_0166
+trojan://Aimer@154.197.64.104:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.104:8443
+trojan://Aimer@154.197.64.104:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20200
+trojan://Aimer@154.197.64.196:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SC_speednode_0168
+trojan://Aimer@154.197.64.196:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.196:2087
+trojan://Aimer@154.197.64.219:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SC_speednode_0165
+trojan://Aimer@154.197.64.219:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.219:2083
+trojan://Aimer@154.197.64.233:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SC_speednode_0167
+trojan://Aimer@154.197.64.233:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.233:443
+trojan://Aimer@154.197.64.240:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.240:8443
+trojan://Aimer@154.197.64.240:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20197
+trojan://Aimer@154.197.64.248:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.248:8443
+trojan://Aimer@154.197.64.67:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.67:443
+trojan://Aimer@154.211.8.150:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#HK_speednode_0062
+trojan://Aimer@154.211.8.150:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.150:2096
+trojan://Aimer@154.211.8.227:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#HK_speednode_0061
+trojan://Aimer@154.211.8.227:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.227:2087
+trojan://Aimer@154.23.172.19:11000?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0249
+trojan://Aimer@154.23.172.19:11000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.23.172.19:11000
+trojan://Aimer@154.26.182.37:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0250
+trojan://Aimer@154.26.182.37:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-154.26.182.37:443
+trojan://Aimer@155.46.213.38:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0271
+trojan://Aimer@155.46.213.38:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-155.46.213.38:2083
+trojan://Aimer@155.46.213.38:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20162
+trojan://Aimer@158.101.131.94:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-158.101.131.94:2083
+trojan://Aimer@158.101.131.94:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2029
+trojan://Aimer@160.79.105.160:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 55
+trojan://Aimer@160.79.105.160:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://Aimer@160.79.105.160:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-160.79.105.160:8443
+trojan://Aimer@161.145.150.14:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-161.145.150.14:443
+trojan://Aimer@161.145.150.26:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20012
+trojan://Aimer@161.145.150.29:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0264
+trojan://Aimer@161.145.150.29:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-161.145.150.29:2083
+trojan://Aimer@162.120.94.232:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0274
+trojan://Aimer@162.120.94.232:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-162.120.94.232:8443
+trojan://Aimer@162.159.136.163:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.163:443
+trojan://Aimer@162.159.143.52:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.143.52:443
 trojan://Aimer@162.159.38.101:2096?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.38.101:2096
-trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%209ms
-trojan://Aimer@162.159.38.105:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.38.105:2083
+trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2033ms
 trojan://Aimer@162.159.44.127:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.127:443
-trojan://Aimer@162.159.44.168:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.168:443
+trojan://Aimer@162.159.44.168:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.168:443
 trojan://Aimer@162.159.44.199:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.199:443
 trojan://Aimer@162.159.44.227:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.227:443
-trojan://Aimer@162.159.44.228:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.228:2053
-trojan://Aimer@162.159.44.230:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.230:2053
+trojan://Aimer@162.159.44.230:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0261
+trojan://Aimer@162.159.44.230:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20248
 trojan://Aimer@162.159.44.236:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.236:443
-trojan://Aimer@162.159.44.78:2096?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.44.78:2096
 trojan://Aimer@162.159.44.82:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.82:443
-trojan://Aimer@162.159.45.156:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.45.156:8443
-trojan://Aimer@167.68.4.131:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-167.68.4.131:8443
+trojan://Aimer@167.68.4.131:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-167.68.4.131:8443
 trojan://Aimer@167.68.4.223:2096?security=tls&sni=epcca.ambercc.filegear-sg.me&allowInsecure=1&type=ws&path=%2F#TW
 trojan://Aimer@167.68.4.223:2096?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-167.68.4.223:2096
-trojan://Aimer@167.68.4.7:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-167.68.4.7:2053
-trojan://Aimer@167.68.42.113:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@167.68.42.113:2053?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-167.68.42.113:2053
-trojan://Aimer@167.68.5.248:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@167.68.5.248:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-167.68.5.248:2087
+trojan://Aimer@167.68.4.7:2053?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 56
+trojan://Aimer@167.68.4.7:2053?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://Aimer@167.68.4.7:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-167.68.4.7:2053
+trojan://Aimer@167.68.42.113:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20042
+trojan://Aimer@167.68.42.113:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-167.68.42.113:2053
+trojan://Aimer@167.68.5.248:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0277
+trojan://Aimer@167.68.5.248:2087?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-167.68.5.248:2087
 trojan://Aimer@172.64.33.110:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.110:443
 trojan://Aimer@172.64.33.128:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.128:443
 trojan://Aimer@172.64.33.144:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.144:443
 trojan://Aimer@172.64.33.201:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.201:443
-trojan://Aimer@172.64.33.69:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.69:2087
-trojan://Aimer@172.64.34.52:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.34.52:2096
+trojan://Aimer@172.64.33.69:2087?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.64.33.69:2087
+trojan://Aimer@172.64.34.52:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 57
+trojan://Aimer@172.64.34.52:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+trojan://Aimer@172.64.34.52:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.34.52:2096
 trojan://Aimer@172.64.35.127:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.127:443
-trojan://Aimer@172.64.35.168:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.168:443
+trojan://Aimer@172.64.35.168:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.168:443
 trojan://Aimer@172.64.35.199:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.199:443
 trojan://Aimer@172.64.35.227:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.227:443
 trojan://Aimer@172.64.35.236:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.236:443
-trojan://Aimer@172.64.35.66:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.66:443
+trojan://Aimer@172.64.35.66:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0256
 trojan://Aimer@172.64.35.82:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.82:443
-trojan://Aimer@172.66.206.205:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.206.205:8443
-trojan://Aimer@172.66.207.17:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.207.17:2083
-trojan://Aimer@172.67.68.56:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.56:2096
-trojan://Aimer@172.67.70.33:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.70.33:2096
-trojan://Aimer@172.67.77.127:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.77.127:443
-trojan://Aimer@173.245.59.109:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.109:2087
+trojan://Aimer@172.66.207.17:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2010
+trojan://Aimer@172.67.77.127:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0279
+trojan://Aimer@172.67.77.127:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.77.127:443
+trojan://Aimer@173.245.59.109:2087?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 58
+trojan://Aimer@173.245.59.109:2087?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+trojan://Aimer@173.245.59.109:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.109:2087
 trojan://Aimer@173.245.59.110:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.110:443
 trojan://Aimer@173.245.59.128:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.128:443
 trojan://Aimer@173.245.59.144:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.144:443
 trojan://Aimer@173.245.59.201:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.201:443
-trojan://Aimer@173.245.59.203:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20112
-trojan://Aimer@173.245.59.203:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.203:443
-trojan://Aimer@175.200.140.27:10048?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-175.200.140.27:10048
-trojan://Aimer@175.210.186.14:12562?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@175.212.51.220:21301?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@176.124.223.133:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-176.124.223.133:2096
-trojan://Aimer@176.124.223.40:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://Aimer@175.210.186.14:12562?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0071
+trojan://Aimer@175.210.186.14:12562?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-175.210.186.14:12562
+trojan://Aimer@175.212.51.220:21301?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0079
+trojan://Aimer@175.212.51.220:21301?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-175.212.51.220:21301
+trojan://Aimer@176.124.223.40:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0160
 trojan://Aimer@176.124.223.40:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-176.124.223.40:2053
-trojan://Aimer@178.128.198.120:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇩🇪 DE-178.128.198.120:8443
-trojan://Aimer@183.104.146.204:12363?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@183.104.64.80:12504?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@183.106.218.118:17000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-183.106.218.118:17000
-trojan://Aimer@183.178.254.158:20800?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%E7%94%B5%E6%8A%A5%E7%BE%A4%EF%BC%9Ahttps%3A%2F%2Ft.me%2Fvvkj11
-trojan://Aimer@185.188.181.214:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇫🇮 FI-185.188.181.214:443
-trojan://Aimer@188.164.159.107:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.138:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.18:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.196:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.196:2096
-trojan://Aimer@188.164.159.22:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.22:2096
-trojan://Aimer@188.164.159.234:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.241:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.246:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.246:2096
-trojan://Aimer@188.164.159.248:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
+trojan://Aimer@183.104.146.204:12363?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-183.104.146.204:12363
+trojan://Aimer@183.104.64.80:12504?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-183.104.64.80:12504
+trojan://Aimer@188.164.159.107:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0012
+trojan://Aimer@188.164.159.107:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.107:2096
+trojan://Aimer@188.164.159.138:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0013
+trojan://Aimer@188.164.159.138:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.138:2083
+trojan://Aimer@188.164.159.138:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20156
+trojan://Aimer@188.164.159.18:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0011
+trojan://Aimer@188.164.159.18:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.18:443
+trojan://Aimer@188.164.159.22:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 59
+trojan://Aimer@188.164.159.22:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%B2
+trojan://Aimer@188.164.159.22:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.22:2096
+trojan://Aimer@188.164.159.234:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.234:2083
+trojan://Aimer@188.164.159.234:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20155
+trojan://Aimer@188.164.159.241:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.241:2096
 trojan://Aimer@188.164.159.248:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.248:2053
-trojan://Aimer@188.164.159.25:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.25:2053
-trojan://Aimer@188.164.159.3:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.3:2087
-trojan://Aimer@188.164.159.43:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.55:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.74:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.91:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@188.164.159.98:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@192.0.54.221:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-192.0.54.221:2083
-trojan://Aimer@192.0.54.7:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-192.0.54.7:443
-trojan://Aimer@192.200.160.109:8443?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-192.200.160.109:8443
-trojan://Aimer@192.200.160.35:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-192.200.160.35:2083
-trojan://Aimer@192.210.207.89:20080?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@198.62.62.192:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.192:2083
-trojan://Aimer@199.231.45.35:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-199.231.45.35:443
-trojan://Aimer@199.34.228.178:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@199.34.228.178:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.178:8443
-trojan://Aimer@199.34.228.187:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@199.34.228.50:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@199.34.228.66:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@199.34.228.71:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@199.34.230.9:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@188.164.159.25:2053?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇦🇲 AM-188.164.159.25:2053
+trojan://Aimer@188.164.159.43:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0015
+trojan://Aimer@188.164.159.43:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.43:2083
+trojan://Aimer@188.164.159.55:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0017
+trojan://Aimer@188.164.159.55:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.55:2096
+trojan://Aimer@188.164.159.74:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.74:8443
+trojan://Aimer@188.164.159.74:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20196
+trojan://Aimer@188.164.159.91:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0014
+trojan://Aimer@188.164.159.91:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.91:2083
+trojan://Aimer@188.164.159.98:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#AM_speednode_0016
+trojan://Aimer@188.164.159.98:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.98:2083
+trojan://Aimer@192.0.54.221:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20001
+trojan://Aimer@192.200.160.109:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20114
+trojan://Aimer@192.200.160.35:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 60
+trojan://Aimer@192.200.160.35:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://Aimer@192.200.160.35:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-192.200.160.35:2083
+trojan://Aimer@192.210.207.89:20080?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0268
+trojan://Aimer@192.210.207.89:20080?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-192.210.207.89:20080
+trojan://Aimer@199.34.228.178:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 61
+trojan://Aimer@199.34.228.178:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://Aimer@199.34.228.178:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.178:8443
+trojan://Aimer@199.34.228.187:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0263
+trojan://Aimer@199.34.228.187:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.187:443
+trojan://Aimer@199.34.228.50:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0272
+trojan://Aimer@199.34.228.50:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.50:2053
+trojan://Aimer@199.34.228.66:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.66:2053
+trojan://Aimer@199.34.228.71:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0270
+trojan://Aimer@199.34.228.71:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.71:8443
 trojan://Aimer@199.34.230.9:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-199.34.230.9:8443
-trojan://Aimer@20.243.153.190:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%E6%97%A5%E6%9C%9F%EF%BC%9A08-11
-trojan://Aimer@202.85.53.160:7000?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@209.94.90.64:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-209.94.90.64:443
-trojan://Aimer@209.94.90.87:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20009
-trojan://Aimer@209.94.90.87:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-209.94.90.87:2087
-trojan://Aimer@210.222.78.191:10240?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@211.198.136.117:50000?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇰🇷 KR-211.198.136.117:50000
-trojan://Aimer@211.224.100.145:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@211.57.146.108:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@213.241.198.189:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-213.241.198.189:2053
-trojan://Aimer@213.241.198.56:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-213.241.198.56:2083
-trojan://Aimer@213.241.198.59:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-213.241.198.59:2083
+trojan://Aimer@20.243.153.190:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-20.243.153.190:8443
+trojan://Aimer@202.85.53.160:7000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇭🇰 HK-202.85.53.160:7000
+trojan://Aimer@209.94.90.87:2087?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20041
+trojan://Aimer@210.222.78.191:10240?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0076
+trojan://Aimer@210.222.78.191:10240?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-210.222.78.191:10240
+trojan://Aimer@210.222.78.191:10240?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2011
+trojan://Aimer@211.224.100.145:50000?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0072
+trojan://Aimer@211.224.100.145:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-211.224.100.145:50000
+trojan://Aimer@211.57.146.108:50000?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0073
+trojan://Aimer@211.57.146.108:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-211.57.146.108:50000
+trojan://Aimer@213.241.198.56:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20037
+trojan://Aimer@213.241.198.59:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇷🇺 RU-213.241.198.59:2083
 trojan://Aimer@216.24.57.186:443?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-216.24.57.186:443
-trojan://Aimer@216.24.57.1:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@216.24.57.207:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-216.24.57.207:443
-trojan://Aimer@220.72.106.154:12127?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@222.103.28.108:12488?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-222.103.28.108:12488
-trojan://Aimer@222.105.100.2:12483?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@222.113.18.207:32764?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@23.94.100.209:88?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@23.94.240.202:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@27.50.48.154:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.48.154:8443
-trojan://Aimer@27.50.48.189:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@216.24.57.1:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-216.24.57.1:2053
+trojan://Aimer@216.24.57.1:2053?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20125
+trojan://Aimer@220.72.106.154:12127?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0078
+trojan://Aimer@220.72.106.154:12127?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-220.72.106.154:12127
+trojan://Aimer@220.72.106.154:12127?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2013
+trojan://Aimer@222.103.28.108:12488?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2001
+trojan://Aimer@222.105.100.2:12483?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0074
+trojan://Aimer@222.105.100.2:12483?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-222.105.100.2:12483
+trojan://Aimer@222.113.18.207:32764?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-222.113.18.207:32764
+trojan://Aimer@23.94.100.209:88?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-23.94.100.209:88
+trojan://Aimer@23.94.100.209:88?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20126
+trojan://Aimer@23.94.240.202:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-23.94.240.202:443
+trojan://Aimer@27.50.48.154:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20188
+trojan://Aimer@27.50.48.189:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 62
+trojan://Aimer@27.50.48.189:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://Aimer@27.50.48.189:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#🆔soskeynet%20🔒%20TR-WS-N/A%20🇭🇰%20HK%2015ms
 trojan://Aimer@27.50.48.189:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.48.189:2083
-trojan://Aimer@27.50.48.239:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.48.239:8443
-trojan://Aimer@27.50.49.136:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@27.50.49.166:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@27.50.48.239:8443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20150
+trojan://Aimer@27.50.49.136:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SG_speednode_0174
+trojan://Aimer@27.50.49.136:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.136:443
+trojan://Aimer@27.50.49.166:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20107
 trojan://Aimer@27.50.49.166:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.166:8443
-trojan://Aimer@27.50.49.179:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@27.50.49.231:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@27.50.49.179:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.179:2096
+trojan://Aimer@27.50.49.179:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20136
 trojan://Aimer@27.50.49.231:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.231:2083
-trojan://Aimer@27.50.49.234:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@27.50.49.37:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@27.50.49.47:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@31.43.179.27:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
+trojan://Aimer@27.50.49.234:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.234:8443
+trojan://Aimer@27.50.49.37:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SG_speednode_0173
+trojan://Aimer@27.50.49.37:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.37:2053
+trojan://Aimer@27.50.49.47:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-27.50.49.47:2083
+trojan://Aimer@27.50.49.47:2083?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20145
+trojan://Aimer@31.43.179.27:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KZ_speednode_0087
 trojan://Aimer@31.43.179.27:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇿 KZ-31.43.179.27:443
-trojan://Aimer@34.81.185.105:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@34.85.77.183:8080?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@38.148.253.85:11002?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-38.148.253.85:11002
-trojan://Aimer@38.207.169.228:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@38.47.116.206:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@38.60.110.16:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@4.242.243.5:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-4.242.243.5:443
-trojan://Aimer@43.132.253.32:12443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BA_%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-trojan://Aimer@43.160.202.92:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BA_%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-trojan://Aimer@43.198.11.1:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇭🇰 HK-43.198.11.1:443
-trojan://Aimer@45.134.21.8:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0
-trojan://Aimer@45.144.136.162:21326?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇭🇰 HK-45.144.136.162:21326
-trojan://Aimer@45.154.3.134:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1_%E8%8D%B7%E5%85%B0
-trojan://Aimer@45.67.215.217:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
-trojan://Aimer@45.67.215.250:2096?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇷🇺 RU-45.67.215.250:2096
-trojan://Aimer@46.232.109.221:10031?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%E6%AF%8F%E5%A4%A9%E6%9B%B4%E6%96%B0%EF%BC%8C%E8%AF%B7%E5%8A%A0%E7%94%B5%E6%8A%A5%E7%BE%A4%E9%98%B2%E6%AD%A2%E5%A4%B1%E8%81%94
-trojan://Aimer@46.254.92.142:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@46.254.92.191:443?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇷🇺 RU-46.254.92.191:443
-trojan://Aimer@46.254.92.201:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@46.254.93.175:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.175:2083
-trojan://Aimer@46.254.93.211:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@46.254.93.243:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@46.254.93.251:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@47.236.102.197:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@47.79.35.191:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@47.79.38.17:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@47.79.85.78:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@49.172.20.66:50000?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-49.172.20.66:50000
-trojan://Aimer@5.182.84.22:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.22:2096
-trojan://Aimer@5.182.84.50:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://Aimer@31.43.179.27:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20213
+trojan://Aimer@34.81.185.105:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇹🇼 TW-34.81.185.105:443
+trojan://Aimer@34.85.77.183:8080?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#JP_speednode_0067
+trojan://Aimer@34.85.77.183:8080?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-34.85.77.183:8080
+trojan://Aimer@38.207.169.228:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-38.207.169.228:443
+trojan://Aimer@38.47.116.206:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-38.47.116.206:443
+trojan://Aimer@38.60.110.16:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-38.60.110.16:443
+trojan://Aimer@43.132.239.42:12443?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇭🇰 HK-43.132.239.42:12443
+trojan://Aimer@43.132.253.32:12443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇭🇰 HK-43.132.253.32:12443
+trojan://Aimer@43.160.202.92:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-43.160.202.92:443
+trojan://Aimer@45.134.21.8:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇳🇱 NL-45.134.21.8:2053
+trojan://Aimer@45.154.3.134:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-45.154.3.134:2053
+trojan://Aimer@45.67.215.217:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0162
+trojan://Aimer@45.67.215.217:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-45.67.215.217:2087
+trojan://Aimer@46.232.109.221:10031?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇭🇰 HK-46.232.109.221:10031
+trojan://Aimer@46.254.92.142:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0157
+trojan://Aimer@46.254.92.142:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-46.254.92.142:2087
+trojan://Aimer@46.254.92.201:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-46.254.92.201:2053
+trojan://Aimer@46.254.93.211:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0163
+trojan://Aimer@46.254.93.211:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.211:2053
+trojan://Aimer@46.254.93.243:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.243:8443
+trojan://Aimer@46.254.93.251:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0159
+trojan://Aimer@46.254.93.251:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.251:2087
+trojan://Aimer@47.79.35.191:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-47.79.35.191:443
+trojan://Aimer@47.79.38.17:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0275
+trojan://Aimer@47.79.38.17:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-47.79.38.17:443
+trojan://Aimer@47.79.85.78:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-47.79.85.78:443
+trojan://Aimer@49.172.20.66:50000?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2009
+trojan://Aimer@5.182.84.22:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20016
+trojan://Aimer@5.182.84.50:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0161
 trojan://Aimer@5.182.84.50:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.50:2096
-trojan://Aimer@5.182.84.52:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.52:2083
-trojan://Aimer@5.182.84.66:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@5.182.85.255:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-5.182.85.255:2096
-trojan://Aimer@5.182.85.28:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-5.182.85.28:443
+trojan://Aimer@5.182.84.50:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20137
+trojan://Aimer@5.182.84.52:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#@vpnclashfa - 63
+trojan://Aimer@5.182.84.52:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
+trojan://Aimer@5.182.84.52:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.52:2083
+trojan://Aimer@5.182.84.66:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.66:2083
+trojan://Aimer@5.182.85.255:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0156
+trojan://Aimer@5.182.85.255:2096?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇷🇺 RU-5.182.85.255:2096
 trojan://Aimer@52.32.90.142:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-52.32.90.142:80
-trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2037ms
-trojan://Aimer@59.16.25.39:12288?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@59.19.192.51:38880?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-59.19.192.51:38880
-trojan://Aimer@61.76.23.133:10251?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@62.106.70.181:10008?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7_%E6%B3%95%E5%9B%BD
-trojan://Aimer@66.81.247.88:2083?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-66.81.247.88:2083
-trojan://Aimer@67.226.221.102:80?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@67.226.221.121:80?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@74.176.199.245:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@77.232.140.114:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@8.210.193.189:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@8.220.242.167:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@86.38.214.186:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9_%E7%AB%8B%E9%99%B6%E5%AE%9B
-trojan://Aimer@91.197.3.168:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2047ms
+trojan://Aimer@59.16.25.39:12288?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#KR_speednode_0075
+trojan://Aimer@59.16.25.39:12288?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-59.16.25.39:12288
+trojan://Aimer@59.19.192.51:38880?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-59.19.192.51:38880
+trojan://Aimer@61.76.23.133:10251?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇰🇷 KR-61.76.23.133:10251
+trojan://Aimer@62.106.70.181:10008?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-62.106.70.181:10008
+trojan://Aimer@67.226.221.102:80?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0254
+trojan://Aimer@67.226.221.102:80?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇺🇸 US-67.226.221.102:80
+trojan://Aimer@74.176.199.245:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0222
+trojan://Aimer@74.176.199.245:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇯🇵 JP-74.176.199.245:443
+trojan://Aimer@77.232.140.114:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#RU_speednode_0158
+trojan://Aimer@77.232.140.114:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇷🇺 RU-77.232.140.114:2053
+trojan://Aimer@8.210.193.189:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇭🇰 HK-8.210.193.189:443
+trojan://Aimer@86.38.214.186:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#LT_speednode_0096
+trojan://Aimer@86.38.214.186:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇱🇹 LT-86.38.214.186:443
 trojan://Aimer@91.197.3.168:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇱🇻 LV-91.197.3.168:8443
-trojan://Aimer@91.199.32.191:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇬🇧 GB-91.199.32.191:2053
-trojan://Aimer@92.243.74.115:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@92.243.74.180:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.180:8443
-trojan://Aimer@92.243.74.239:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://Aimer@91.199.32.191:2053?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇬🇧 GB-91.199.32.191:2053
+trojan://Aimer@92.243.74.115:443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.115:443
+trojan://Aimer@92.243.74.239:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SG_speednode_0175
 trojan://Aimer@92.243.74.239:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.239:8443
-trojan://Aimer@92.243.74.23:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@92.243.74.2:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.2:8443
-trojan://Aimer@92.243.74.3:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@92.243.75.49:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-92.243.75.49:2087
-trojan://Aimer@92.53.190.161:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
-trojan://Aimer@92.53.190.161:2087?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇮 SI-92.53.190.161:2087
-trojan://Aimer@94.23.147.223:2053?sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&allowInsecure=1#🔒 TR-WS-NA 🇳🇱 NL-94.23.147.223:2053
-trojan://Aimer@94.23.169.3:2053?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇫🇷 FR-94.23.169.3:2053
-trojan://Aimer@arvind.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@bestcf.030101.xyz:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@damien.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@duke.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@ignacio.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@kip.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@lynn.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@pranab.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@sage.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20222
-trojan://Aimer@thaddeus.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@theo.ns.cloudflare.com:443?security=tls&sni=epgb.aimercc.dpdns.org&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@92.243.74.23:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SG_speednode_0171
+trojan://Aimer@92.243.74.23:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.23:2096
+trojan://Aimer@92.243.74.23:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20149
+trojan://Aimer@92.243.74.3:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#SG_speednode_0172
+trojan://Aimer@92.243.74.3:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.3:8443
+trojan://Aimer@92.243.75.49:2087?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20013
+trojan://Aimer@92.53.190.161:2087?sni=epgb.aimercc.dpdns.org&allowInsecure=1#🔒 TR-TCP-NA 🇸🇮 SI-92.53.190.161:2087
+trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0265
+trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#US_speednode_0255
+trojan://Aimer@pranab.ns.cloudflare.com:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20262
+trojan://Aimer@theo.ns.cloudflare.com:443?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epgb.aimercc.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20261
 trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?security=tls&sni=lllliraniv2rayllll.norooz.shop&alpn=h3%2Ch2&fp=chrome&type=grpc&serviceName=iraniV2ray&mode=multi#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40iraniv2ray%20%5B4%5D
 trojan://BWDcALS5TU@lllliraniv2rayllll.norooz.shop:2083?security=tls&sni=lllliraniv2rayllll.norooz.shop&alpn=h3,h2&fp=chrome&type=grpc&serviceName=iraniV2ray&mode=multi#❔ XX | 🔒 TROJAN | @iraniv2ray [4]
 trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@104.21.44.113:443?security=tls&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev&type=ws&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.44.113:443
 trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@172.67.199.12:443?security=tls&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev&type=ws&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.199.12:443
-trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#@vpnclashfa - 548
-trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#RELAY🚩 | muddy-frost-4e2d.vpnetwork3567.workers.dev-443 | 30.3ms
+trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#@vpnclashfa - 64
+trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#RELAY🚩 | muddy-frost-4e2d.vpnetwork3567.workers.dev-443 | 125.2ms
+trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=%2F%3F--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#🆔soskeynet%20🔒%20TR-WS-N/A%20🇺🇸%20US%2050ms
 trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560#%40Golestan_VPN%20-%20JOIN
-trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560#@vpnclashfa - 549
-trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560#RELAY🚩 | 7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv-443 | 33.74ms
+trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560#@vpnclashfa - 65
+trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&alpn=http%2F1.1&fp=randomized&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560#RELAY🚩 | 7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv-443 | 87.18ms
 trojan://CjqK8GFZ%29%2CD%3F@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FtrU3kEraImU22Jv6vo%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.149.210:443
-trojan://DNUMdmnJ@36.151.192.201:51377?allowInsecure=1#@Hope_Net-join-us-on-Teleg
-trojan://DNUMdmnJ@36.151.192.201:51377?allowInsecure=1#@vpnclashfa - 550
 trojan://EbtvoL1xJV@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F48938%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://EbtvoL1xJV@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F33522%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://EbtvoL1xJV@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F46404%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://EbtvoL1xJV@support.sabapardaziran.ir:8443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#%40Golestan_VPN%20-%20JOIN‏⬅️  ‏اگر در دنیا یک چیز باشد که بتواند عشق مرا در یک لحظه نیست و نابود کند، آن یک چیز ناسپاسی است...👤داستایفسکی #فیلترشکن_بدون_قطعی #فیلترشکن_پرسرعت  #وی_پی_ان  #وی_پی_ان_رایگان #وی_پی_ان_بدون_قطعیبرای خرید یا اطلاعات بیشتر⬇️⬇️⬇️🔗@Linkgolstan  . ✅️🌐@Golestan_vpn .✅️
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#@vpnclashfa - 551
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 7.45ms
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#@vpnclashfa - 552
-trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 22.14ms
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#@vpnclashfa - 66
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&sid=109cb5faeb6b&spx=%2FyethePcHjaf&type=tcp&headerType=none#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 29.76ms
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#@vpnclashfa - 67
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#REALITY|US🇺🇸 | journalofbigdata.springeropen.com-443 | 85.63ms
 trojan://IRoTiZfh4J@iran.farsonline24.ir:2053?security=tls&type=ws&host=iran.farsonline24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://IY4gWQIsHV@104.21.44.185:2087?path=%2Fmehdi&security=tls&host=Freedomisnear.onetwothree123.ir&type=httpupgrade&sni=Freedomisnear.onetwothree123.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40dailytek%20%5B2%5D
 trojan://IY4gWQIsHV@104.21.44.185:2087?path=/mehdi&security=tls&host=Freedomisnear.onetwothree123.ir&type=httpupgrade&sni=Freedomisnear.onetwothree123.ir#🚩 CF | 🔒 TROJAN | @dailytek [2]
 trojan://IY4gWQIsHV@104.21.44.185:2087?security=tls&sni=Freedomisnear.onetwothree123.ir&type=httpupgrade&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.44.185:2087
-trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?allowInsecure=1&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&ws=1&wspath=%2F#@vpnclashfa - 553
-trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?allowInsecure=1&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&ws=1&wspath=%2F#RELAY🚩 | 1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za-443 | 269.84ms
+trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?allowInsecure=1&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&ws=1&wspath=%2F#RELAY🚩 | 1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za-443 | 15.19ms
 trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#@Hope_Net-join-us-on-Telegram
 trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#@Hope_Net-join-us-on-Telegram
-trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#@vpnclashfa - 554
-trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.234.12:443
+trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#@vpnclashfa - 68
+trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#RELAY🚩 | 1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za-443 | 151.08ms
+trojan://Join-VPNCUSTOMIZE@104.17.234.12:443?sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.234.12:443
+trojan://LG7HKcZFIJ@45.155.54.117:110?security=tls&sni=sws.ftpcomand.com&type=tcp#🔒 TR-TCP-TLS 🇨🇭 CH-45.155.54.117:110
 trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B2%5D
 trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#🇷🇺 RU | 🔒 TROJAN | @maradona_vpn [2]
 trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc20337&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇷🇺 RU-185.59.218.220:443
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B9%5D
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#❔ XX | 🔒 TROJAN | @maradona_vpn [9]
 trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@VIProxys
-trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@vpnclashfa - 555
+trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@vpnclashfa - 69
+trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-8443 | 15.55ms
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@VIProxys
-trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@vpnclashfa - 556
+trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@vpnclashfa - 70
+trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#RELAY🚩 | broken-bread-6ba6.shieldheart4.workers.dev-8443 | 131.62ms
 trojan://NHcpqLrnuW@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
-trojan://NISHIKUITAN111@104.129.164.116:443?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-104.129.164.116:443
-trojan://NISHIKUITAN111@104.17.124.126:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.124.126:443
+trojan://NISHIKUITAN111@104.16.158.225:443?#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.16.158.225:443?#@vpnclashfa - 71
+trojan://NISHIKUITAN111@104.16.158.225:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.158.225:443
+trojan://NISHIKUITAN111@104.17.13.218:443?#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
+trojan://NISHIKUITAN111@104.17.13.218:443?#@vpnclashfa - 72
 trojan://NISHIKUITAN111@104.17.13.218:443?allowInsecure=1#[
-trojan://NISHIKUITAN111@104.17.255.213:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.255.213:443
-trojan://NISHIKUITAN111@104.17.52.133:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.52.133:443
-trojan://NISHIKUITAN111@104.17.85.90:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.85.90:443
-trojan://NISHIKUITAN111@104.18.1.1:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.1.1:443
-trojan://NISHIKUITAN111@104.18.202.154:443#RELAY🚩 | 104.18.202.154-443 | 2.37ms
+trojan://NISHIKUITAN111@104.18.202.154:443#RELAY🚩 | 104.18.202.154-443 | 14.18ms
 trojan://NISHIKUITAN111@104.18.202.154:443?#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@104.18.202.154:443?#@vpnclashfa - 557
-trojan://NISHIKUITAN111@104.21.6.215:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.6.215:443
-trojan://NISHIKUITAN111@104.24.184.159:443#RELAY🚩 | 104.24.184.159-443 | 2.87ms
+trojan://NISHIKUITAN111@104.18.202.154:443?#@vpnclashfa - 73
+trojan://NISHIKUITAN111@104.18.202.154:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.202.154:443
+trojan://NISHIKUITAN111@104.24.184.159:443#RELAY🚩 | 104.24.184.159-443 | 14.39ms
 trojan://NISHIKUITAN111@104.24.184.159:443?#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://NISHIKUITAN111@104.24.184.159:443?#@vpnclashfa - 558
-trojan://NISHIKUITAN111@104.24.186.143:443?allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.186.143:443
-trojan://NISHIKUITAN111@104.24.189.5:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.189.5:443
-trojan://NISHIKUITAN111@104.24.249.19:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.249.19:443
-trojan://NISHIKUITAN111@104.24.54.196:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.54.196:443
-trojan://NISHIKUITAN111@104.25.118.140:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.118.140:443
-trojan://NISHIKUITAN111@104.25.227.104:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.227.104:443
-trojan://NISHIKUITAN111@104.25.233.12:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.233.12:443
-trojan://NISHIKUITAN111@104.25.31.240:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.31.240:443
-trojan://NISHIKUITAN111@104.25.53.79:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.53.79:443
-trojan://NISHIKUITAN111@104.25.99.96:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.99.96:443
-trojan://NISHIKUITAN111@104.26.9.255:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.9.255:443
-trojan://NISHIKUITAN111@104.27.14.235:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.14.235:443
+trojan://NISHIKUITAN111@104.24.184.159:443?#@vpnclashfa - 74
+trojan://NISHIKUITAN111@104.24.184.159:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.184.159:443
+trojan://NISHIKUITAN111@104.25.124.93:443?#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.25.124.93:443?#@vpnclashfa - 75
+trojan://NISHIKUITAN111@104.27.198.65:443#RELAY🚩 | 104.27.198.65-443 | 14.38ms
 trojan://NISHIKUITAN111@104.27.198.65:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.27.198.65:443?#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://NISHIKUITAN111@104.27.198.65:443?#@vpnclashfa - 559
-trojan://NISHIKUITAN111@104.27.198.65:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.198.65:443
-trojan://NISHIKUITAN111@104.27.42.14:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.42.14:443
-trojan://NISHIKUITAN111@104.27.58.225:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.58.225:443
-trojan://NISHIKUITAN111@104.27.97.133:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.97.133:443
-trojan://NISHIKUITAN111@108.165.216.155:443?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-108.165.216.155:443
-trojan://NISHIKUITAN111@14.102.228.61:443?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-14.102.228.61:443
-trojan://NISHIKUITAN111@140.99.233.144:443?allowInsecure=1#🔒 TR-TCP-NA 🇩🇪 DE-140.99.233.144:443
-trojan://NISHIKUITAN111@141.101.121.134:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.121.134:443
-trojan://NISHIKUITAN111@141.101.121.30:443?allowInsecure=1#RELAY🚩 | 141.101.121.30-443 | 2.74ms
+trojan://NISHIKUITAN111@104.27.198.65:443?#@vpnclashfa - 76
 trojan://NISHIKUITAN111@141.101.121.30:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.121.30:443
-trojan://NISHIKUITAN111@141.11.203.203:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#US🇺🇸 | za.ylks.xyz-443 | 6.88ms
 trojan://NISHIKUITAN111@141.11.203.203:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇫🇷 FR-141.11.203.203:443
-trojan://NISHIKUITAN111@154.194.12.141:443?allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-154.194.12.141:443
+trojan://NISHIKUITAN111@154.197.75.171:443#SC🇸🇨 | 154.197.75.171-443 | 13.96ms
 trojan://NISHIKUITAN111@154.197.75.171:443?#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://NISHIKUITAN111@154.197.75.171:443?#@vpnclashfa - 560
-trojan://NISHIKUITAN111@154.197.75.171:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://NISHIKUITAN111@154.197.75.171:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 23.79ms
+trojan://NISHIKUITAN111@154.197.75.171:443?#@vpnclashfa - 77
 trojan://NISHIKUITAN111@154.197.75.171:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇸🇨 SC-154.197.75.171:443
-trojan://NISHIKUITAN111@154.197.75.248:443?allowInsecure=1#🔒 TR-TCP-NA 🇸🇨 SC-154.197.75.248:443
-trojan://NISHIKUITAN111@154.83.2.121:443?allowInsecure=1#🔒 TR-TCP-NA 🇵🇭 PH-154.83.2.121:443
-trojan://NISHIKUITAN111@156.229.48.127:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#US🇺🇸 | za.ylks.xyz-443 | 5.74ms
-trojan://NISHIKUITAN111@156.229.48.169:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://NISHIKUITAN111@156.229.48.169:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#US🇺🇸 | za.ylks.xyz-443 | 4.35ms
-trojan://NISHIKUITAN111@156.229.48.169:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@159.246.55.202:443?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-159.246.55.202:443
-trojan://NISHIKUITAN111@162.159.130.13:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.130.13:443
-trojan://NISHIKUITAN111@162.159.16.224:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.16.224:443
-trojan://NISHIKUITAN111@162.159.20.97:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.20.97:443
-trojan://NISHIKUITAN111@168.100.6.112:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://NISHIKUITAN111@168.100.6.112:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@vpnclashfa - 561
-trojan://NISHIKUITAN111@168.100.6.112:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 5.46ms
-trojan://NISHIKUITAN111@168.100.6.46:443?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-168.100.6.46:443
-trojan://NISHIKUITAN111@172.66.45.29:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.45.29:443
-trojan://NISHIKUITAN111@172.67.199.141:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.199.141:443
-trojan://NISHIKUITAN111@172.67.231.25:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.231.25:443
-trojan://NISHIKUITAN111@172.67.234.222:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.234.222:443
-trojan://NISHIKUITAN111@172.67.235.2:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.235.2:443
-trojan://NISHIKUITAN111@172.67.239.136:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.239.136:443
-trojan://NISHIKUITAN111@172.67.240.19:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.240.19:443
-trojan://NISHIKUITAN111@172.67.242.135:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.242.135:443
-trojan://NISHIKUITAN111@172.67.67.8:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.67.8:443
-trojan://NISHIKUITAN111@173.245.49.55:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.49.55:443
-trojan://NISHIKUITAN111@185.148.106.44:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇷🇺 RU-185.148.106.44:443
+trojan://NISHIKUITAN111@168.100.6.112:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 86.2ms
+trojan://NISHIKUITAN111@168.100.6.112:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-168.100.6.112:443
+trojan://NISHIKUITAN111@185.148.107.67:443?#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@185.148.107.67:443?#@vpnclashfa - 78
 trojan://NISHIKUITAN111@185.159.247.167:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@185.159.247.167:443?allowInsecure=1#@vpnclashfa - 562
-trojan://NISHIKUITAN111@185.159.247.167:443?allowInsecure=1#EE🇪🇪 | 185.159.247.167-443 | 3.12ms
-trojan://NISHIKUITAN111@185.159.247.167:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#US🇺🇸 | za.ylks.xyz-443 | 4.7ms
-trojan://NISHIKUITAN111@185.159.247.167:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇪🇪 EE-185.159.247.167:443
-trojan://NISHIKUITAN111@185.162.228.14:443?allowInsecure=1#🔒 TR-TCP-NA 🇮🇲 IM-185.162.228.14:443
-trojan://NISHIKUITAN111@185.162.229.179:443?allowInsecure=1#🔒 TR-TCP-NA 🇮🇲 IM-185.162.229.179:443
-trojan://NISHIKUITAN111@185.162.231.92:443?allowInsecure=1#🔒 TR-TCP-NA 🇮🇲 IM-185.162.231.92:443
-trojan://NISHIKUITAN111@185.170.166.26:443?allowInsecure=1#🔒 TR-TCP-NA 🇬🇧 GB-185.170.166.26:443
+trojan://NISHIKUITAN111@185.159.247.167:443?allowInsecure=1#EE🇪🇪 | 185.159.247.167-443 | 14.41ms
+trojan://NISHIKUITAN111@185.159.247.167:443?allowInsecure=1#🔒 TR-TCP-NA 🇪🇪 EE-185.159.247.167:443
+trojan://NISHIKUITAN111@185.193.28.17:443#GB🇬🇧 | 185.193.28.17-443 | 13.9ms
 trojan://NISHIKUITAN111@185.193.28.17:443?#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@185.193.28.17:443?#@vpnclashfa - 563
+trojan://NISHIKUITAN111@185.193.28.17:443?#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
+trojan://NISHIKUITAN111@185.193.28.17:443?#@vpnclashfa - 79
 trojan://NISHIKUITAN111@185.193.28.17:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.28.17:443
-trojan://NISHIKUITAN111@188.114.96.162:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.96.162:443
-trojan://NISHIKUITAN111@188.114.97.150:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.150:443
-trojan://NISHIKUITAN111@188.114.98.145:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.98.145:443
-trojan://NISHIKUITAN111@188.114.99.153:443?allowInsecure=1#RELAY🚩 | 188.114.99.153-443 | 2.77ms
+trojan://NISHIKUITAN111@188.114.97.198:443?#@vpnclashfa - 80
 trojan://NISHIKUITAN111@188.114.99.153:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.99.153:443
-trojan://NISHIKUITAN111@188.164.158.111:443?allowInsecure=1#🔒 TR-TCP-NA 🇦🇲 AM-188.164.158.111:443
-trojan://NISHIKUITAN111@188.42.88.52:443?allowInsecure=1#@vpnclashfa - 564
-trojan://NISHIKUITAN111@188.42.88.52:443?allowInsecure=1#LU🇱🇺 | 188.42.88.52-443 | 2.97ms
-trojan://NISHIKUITAN111@190.93.246.0:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.246.0:443
+trojan://NISHIKUITAN111@188.42.88.52:443?allowInsecure=1#LU🇱🇺 | 188.42.88.52-443 | 14.16ms
+trojan://NISHIKUITAN111@188.42.88.52:443?allowInsecure=1#🔒 TR-TCP-NA 🇱🇺 LU-188.42.88.52:443
+trojan://NISHIKUITAN111@190.93.244.235:443?#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@190.93.244.235:443?#@vpnclashfa - 81
+trojan://NISHIKUITAN111@190.93.244.235:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.235:443
+trojan://NISHIKUITAN111@190.93.246.217:443#RELAY🚩 | 190.93.246.217-443 | 14.73ms
 trojan://NISHIKUITAN111@190.93.246.217:443?#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@190.93.246.217:443?#@vpnclashfa - 565
-trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#@vpnclashfa - 566
-trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#AU🇦🇺 | 192.65.217.110-443 | 8.99ms
-trojan://NISHIKUITAN111@192.65.217.110:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@192.65.217.110:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@vpnclashfa - 567
-trojan://NISHIKUITAN111@192.65.217.110:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 59.25ms
-trojan://NISHIKUITAN111@192.65.217.110:443?sni=za.ylks.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇦🇺 AU-192.65.217.110:443
-trojan://NISHIKUITAN111@193.227.99.60:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇲🇹 MT-193.227.99.60:443
-trojan://NISHIKUITAN111@194.36.55.28:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#US🇺🇸 | za.ylks.xyz-443 | 94.64ms
+trojan://NISHIKUITAN111@190.93.247.81:443?#@vpnclashfa - 82
+trojan://NISHIKUITAN111@190.93.247.81:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.247.81:443
+trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#AU🇦🇺 | 192.65.217.110-443 | 14.33ms
+trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#🔒 TR-TCP-NA 🇦🇺 AU-192.65.217.110:443
+trojan://NISHIKUITAN111@192.65.217.110:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 187.2ms
 trojan://NISHIKUITAN111@194.36.55.28:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇬🇧 GB-194.36.55.28:443
-trojan://NISHIKUITAN111@194.53.53.140:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@194.53.53.140:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 100.23ms
 trojan://NISHIKUITAN111@194.53.53.140:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-194.53.53.140:443
-trojan://NISHIKUITAN111@195.85.23.232:443?allowInsecure=1#🔒 TR-TCP-NA 🇨🇿 CZ-195.85.23.232:443
-trojan://NISHIKUITAN111@195.85.59.158:443?allowInsecure=1#🔒 TR-TCP-NA 🇨🇾 CY-195.85.59.158:443
-trojan://NISHIKUITAN111@198.41.201.193:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.201.193:443
-trojan://NISHIKUITAN111@198.41.203.228:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.203.228:443
-trojan://NISHIKUITAN111@198.41.217.71:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.217.71:443
+trojan://NISHIKUITAN111@198.41.223.65:443#RELAY🚩 | 198.41.223.65-443 | 14.12ms
 trojan://NISHIKUITAN111@198.41.223.65:443?#@Hope_Net-join-us-on-Teleg
-trojan://NISHIKUITAN111@198.41.223.65:443?#@vpnclashfa - 568
-trojan://NISHIKUITAN111@216.205.52.233:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@216.205.52.233:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 102.13ms
-trojan://NISHIKUITAN111@216.205.52.233:443?sni=za.ylks.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-216.205.52.233:443
-trojan://NISHIKUITAN111@31.43.179.32:443?allowInsecure=1#🔒 TR-TCP-NA 🇰🇿 KZ-31.43.179.32:443
-trojan://NISHIKUITAN111@45.131.208.126:443#NL🇳🇱 | 45.131.208.126-443 | 3.08ms
+trojan://NISHIKUITAN111@198.41.223.65:443?#@vpnclashfa - 83
+trojan://NISHIKUITAN111@216.205.52.233:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-216.205.52.233:443
+trojan://NISHIKUITAN111@45.131.208.126:443#NL🇳🇱 | 45.131.208.126-443 | 14.05ms
 trojan://NISHIKUITAN111@45.131.208.126:443?#@Hope_Net-join-us-on-Telegram⚠️ Warning: Proxy may not work on all network operators.⏱ Please wait a few seconds after starting a proxy.🔰All the apps you need to use this proxy on different platformsShare the proxy with your friends to support the channel ✊🕊❤️‍🔥🌍 دسترسی به 20 سرور از کشورهای مختلف تنها با خرید یک سرویس! 🇩🇪🇳🇱🇹🇷🇸🇪🇺🇸🇦🇪🇫🇮🏴💼 پلن‌های نامحدود و اقتصادی با تخفیف ویژه برای همکاران و عمده‌فروشان!💰 روش‌های پرداخت متنوع: رمز ارز، پرفکت مانی، و ریال🔓 بدون محدودیت کاربران و 1 گیگ تست رایگان برای همه!⚡️ تست فوری مخصوص عمده‌فروشان🎟 خرید و تست رایگان کانفیگ:➖➖➖➖➖➖➖➖#WomenLifeFreedom#MahsaAmini #ToomajSalehi➖➖➖➖➖➖➖➖@Hope_Net 🤞
-trojan://NISHIKUITAN111@45.131.208.126:443?#@vpnclashfa - 569
-trojan://NISHIKUITAN111@45.131.208.126:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#US🇺🇸 | za.ylks.xyz-443 | 71.92ms
-trojan://NISHIKUITAN111@45.131.208.126:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇳🇱 NL-45.131.208.126:443
-trojan://NISHIKUITAN111@45.131.209.89:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@45.131.209.89:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 56.53ms
+trojan://NISHIKUITAN111@45.131.208.126:443?#@vpnclashfa - 84
+trojan://NISHIKUITAN111@45.131.208.126:443?#🔒 TR-TCP-NA 🇳🇱 NL-45.131.208.126:443
 trojan://NISHIKUITAN111@45.131.209.89:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-45.131.209.89:443
-trojan://NISHIKUITAN111@45.131.211.23:443?allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-45.131.211.23:443
-trojan://NISHIKUITAN111@45.131.4.208:443?allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-45.131.4.208:443
-trojan://NISHIKUITAN111@45.80.108.245:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#US🇺🇸 | za.ylks.xyz-443 | 4.46ms
 trojan://NISHIKUITAN111@45.80.108.245:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇪🇪 EE-45.80.108.245:443
-trojan://NISHIKUITAN111@46.254.92.112:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇷🇺 RU-46.254.92.112:443
-trojan://NISHIKUITAN111@5.10.244.182:443?allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-5.10.244.182:443
-trojan://NISHIKUITAN111@5.10.245.142:443?sni=za.ylks.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-5.10.245.142:443
-trojan://NISHIKUITAN111@5.182.84.93:443?allowInsecure=1#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.93:443
 trojan://NISHIKUITAN111@5.182.84.93:443?security=none&fp=chrome&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-NONE%204%E2%83%A3
-trojan://NISHIKUITAN111@5.182.85.93:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@5.182.85.93:443?allowInsecure=1#@vpnclashfa - 570
-trojan://NISHIKUITAN111@5.182.85.93:443?allowInsecure=1#RU🇷🇺 | 5.182.85.93-443 | 2.95ms
-trojan://NISHIKUITAN111@5.182.85.93:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#@Hope_Net-join-us-on-Teleg
-trojan://NISHIKUITAN111@5.182.85.93:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#US🇺🇸 | za.ylks.xyz-443 | 86.52ms
-trojan://NISHIKUITAN111@5.182.85.93:443?sni=za.ylks.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇷🇺 RU-5.182.85.93:443
-trojan://NISHIKUITAN111@62.72.166.140:443?allowInsecure=1#🔒 TR-TCP-NA 🇯🇴 JO-62.72.166.140:443
-trojan://NISHIKUITAN111@62.72.166.57:443?sni=za.ylks.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇯🇴 JO-62.72.166.57:443
-trojan://NISHIKUITAN111@69.48.218.58:443?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-69.48.218.58:443
+trojan://NISHIKUITAN111@5.182.85.93:443?allowInsecure=1#RU🇷🇺 | 5.182.85.93-443 | 14.12ms
+trojan://NISHIKUITAN111@5.182.85.93:443?allowInsecure=1#🔒 TR-TCP-NA 🇷🇺 RU-5.182.85.93:443
+trojan://NISHIKUITAN111@77.75.199.86:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F&allowInsecure=1#🔒 TR-WS-NA 🇬🇧 GB-77.75.199.86:443
+trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=c2.validbv3528.eu.org#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
+trojan://Ng35283528@104.16.83.43:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.83.43%3A443
+trojan://Ng35283528@104.16.83.43:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.83.43:443
+trojan://Ng35283528@104.16.83.8:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.83.8%3A443
+trojan://Ng35283528@104.16.83.8:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.83.8:443
+trojan://Pooria@104.17.147.22:80?type=ws&host=redfree8w.pooriam.ir&path=%2FtrLwW5jiTelegramFreeV2Alpha%3Fed%3D2560#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
+trojan://Pooria@104.17.148.22:443?security=none&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-NONE%204%E2%83%A3
+trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=301.pooriam.ir&path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://Pooria@www.speedtest.net:443?type=ws&host=301.pooriam.ir&path=/trPyOrWMfkHd15oxiI?ed%3D1520&security=tls&fp=randomized&sni=301.pOORiAm.ir&alpn=h2,http/1.1#@vpnclashfa - 85
+trojan://RISBa%3B60%40iJ0Y9j%24@104.23.109.228:443?security=tls&sni=cOol-PAper-B369.H-175.wOrkErS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrNCANj6FlNU8ziJBH%3Fed%3D2560#%F0%9F%92%A7%209%20-%20Trojan%20-%20Clean%20IP%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@188.114.96.3:443?security=tls&sni=cOOL-paPER-B369.H-175.wORKeRs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrbVfBloJgsCGIXPAy%3Fed%3D2560#%F0%9F%92%A7%204%20-%20Trojan%20-%20IPv4%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@188.114.97.3:443?security=tls&sni=coOl-PapeR-b369.h-175.wOrkeRS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrADnQEIdSzg7Lf0Mg%3Fed%3D2560#%F0%9F%92%A7%203%20-%20Trojan%20-%20IPv4%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@cool-paper-b369.h-175.workers.dev:443?security=tls&sni=coOL-paPER-b369.H-175.WoRKeRS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2Ftr9SFySTMaqFQI5yhU%3Fed%3D2560#%F0%9F%92%A7%201%20-%20Trojan%20-%20Domain%20%3A%20443
+trojan://RISBa%3B60%40iJ0Y9j%24@www.speedtest.net:443?security=tls&sni=COol-PAper-B369.h-175.WorKeRS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=cool-paper-b369.h-175.workers.dev&path=%2FtrFwkcT6K7A2tA3gxx%3Fed%3D2560#%F0%9F%92%A7%202%20-%20Trojan%20-%20Domain%20%3A%20443
+trojan://RlzoEILU@36.151.251.59:7815?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40jiedianssr%20%5B3%5D
+trojan://RlzoEILU@36.151.251.59:7815?type=tcp&security=tls&allowInsecure=1#🇨🇳 CN | 🔒 TROJAN | @jiedianssr [3]
+trojan://SYlC7B9Tgl@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2052?type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrLTF4JmeBDIe8QWmH%3Fed%3D2560#%F0%9F%92%A6%2046%20-%20Trojan%20-%20Clean%20IP%20%3A%202052
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2053?security=tls&sni=BiTTer-sUN-b1aA.h-175.wOrkeRS.dEV&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrGPWDZ7KOqRJ8Q3Ej%3Fed%3D2560#%F0%9F%92%A6%20106%20-%20Trojan%20-%20Clean%20IP%20%3A%202053
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2053?security=tls&sni=bItTER-SuN-B1Aa.h-175.wORkERS.dEV&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrzOaTNpCkSyHX4t46%3Fed%3D2560#%F0%9F%92%A6%20124%20-%20Trojan%20-%20Clean%20IP%20%3A%202053
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2082?type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrBGsL6ukanOqCl0Tb%3Fed%3D2560#%F0%9F%92%A6%2059%20-%20Trojan%20-%20Clean%20IP%20%3A%202082
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2083?security=tls&sni=BiTTEr-sun-b1aA.H-175.WOrkers.deV&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrokwBapN0LZJaFXQx%3Fed%3D2560#%F0%9F%92%A6%20137%20-%20Trojan%20-%20Clean%20IP%20%3A%202083
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2087?security=tls&sni=BiTter-SUN-b1aA.h-175.WorkERS.dev&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtroDSdZo6lpBhNWLC6%3Fed%3D2560#%F0%9F%92%A6%20128%20-%20Trojan%20-%20Clean%20IP%20%3A%202087
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2087?security=tls&sni=bItTer-Sun-B1aa.H-175.WoRkErs.DEV&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrUyJkBlFLFim5DONK%3Fed%3D2560#%F0%9F%92%A6%20150%20-%20Trojan%20-%20Clean%20IP%20%3A%202087
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2096?security=tls&sni=BIttEr-SuN-b1AA.h-175.WORKERs.DeV&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtralcOIW0I45Nl1a95%3Fed%3D2560#%F0%9F%92%A6%20139%20-%20Trojan%20-%20Clean%20IP%20%3A%202096
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:2096?security=tls&sni=BiTTER-Sun-b1AA.H-175.wOrKeRs.DEv&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrWjs7toeNO4LG7D1R%3Fed%3D2560#%F0%9F%92%A6%20163%20-%20Trojan%20-%20Clean%20IP%20%3A%202096
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:443?security=tls&sni=BIttER-SUn-b1Aa.h-175.WOrkERs.DEV&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2Ftr29Fw0E1pefSF1Puf%3Fed%3D2560#%F0%9F%92%A6%2084%20-%20Trojan%20-%20Clean%20IP%20%3A%20443
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:443?security=tls&sni=bITTer-suN-B1aA.H-175.wORkERS.Dev&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2Ftr6wrSlPIeQFR8e66K%3Fed%3D2560#%F0%9F%92%A6%2098%20-%20Trojan%20-%20Clean%20IP%20%3A%20443
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:8080?type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrfIY3ZAQsusAitwyB%3Fed%3D2560#%F0%9F%92%A6%2020%20-%20Trojan%20-%20Clean%20IP%20%3A%208080
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:8080?type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrpJuVJiBUrhUUELNX%3Fed%3D2560#%F0%9F%92%A6%2018%20-%20Trojan%20-%20Clean%20IP%20%3A%208080
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:80?type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2Ftrm658pnr2qSxFWQnd%3Fed%3D2560#%F0%9F%92%A6%207%20-%20Trojan%20-%20Clean%20IP%20%3A%2080
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:8443?security=tls&sni=BItteR-SUN-B1Aa.H-175.wOrKERs.dEV&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrDbIjq0huNjXXCZjr%3Fed%3D2560#%F0%9F%92%A6%20111%20-%20Trojan%20-%20Clean%20IP%20%3A%208443
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:8443?security=tls&sni=BittEr-sUN-b1aA.h-175.woRKErs.dev&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrFCQ5rTau2KgChX4k%3Fed%3D2560#%F0%9F%92%A6%2095%20-%20Trojan%20-%20Clean%20IP%20%3A%208443
+trojan://T.R%5DBywvrI%2Cq8MU%5E@212.183.88.29:8880?type=ws&host=bitter-sun-b1aa.h-175.workers.dev&path=%2FtrDbz4J2z7FE988YoU%3Fed%3D2560#%F0%9F%92%A6%2033%20-%20Trojan%20-%20Clean%20IP%20%3A%208880
+trojan://Telegram-DailyConfigs@104.18.3.11:2096?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&host=kanale-daily-configs.blackoutconnection.ir#@Hope_Net-join-us-on-Teleg
+trojan://Telegram-DailyConfigs@104.18.3.11:2096?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&host=kanale-daily-configs.blackoutconnection.ir#@vpnclashfa - 86
+trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=d5e7#@vpnclashfa - 87
+trojan://U7gU53Wz4z@tabnak.itn24.ir:8443?security=tls&allowInsecure=1&type=ws&host=tabnak.itn24.ir&path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://VXdWMGsqVR@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=httpupgrade&host=support.sabapardaziran.ir&path=%2F48938%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://VXdWMGsqVR@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F33522%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://VXdWMGsqVR@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F46404%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://VXdWMGsqVR@support.sabapardaziran.ir:8443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp#@vpnclashfa - 88
+trojan://WOeXShhJpL@104.21.37.37:443?security=...&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-...%204%E2%83%A3
+trojan://WOeXShhJpL@172.67.232.40:443?security=tls&sni=10jzus.zdzdzd.xyz&type=ws&host=10jzus.zdzdzd.xyz&path=/juzigongyi#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.232.40:443
+trojan://WOeXShhJpL@172.67.232.40:443?security=tls&type=ws&sni=10jzus.zdzdzd.xyz&path=/juzigongyi&host=10jzus.zdzdzd.xyz#@vpnclashfa - 89
+trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfiig%20%5B5%5D
+trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?security=tls&sni=S1.mitivpN.wOrKeRS.DEV&type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.26.90:443
+trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🚩 CF | 🔒 TROJAN | @v2rayngconfiig [5]
+trojan://ZqS3Lxamkh@ru2.asc-sam.ir:2087?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#@vpnclashfa - 90
+trojan://a01b5e27-ece5-4675-866f-36b23a65d2a8@178.239.124.134:32283?sni=xj.cokecloud.top&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-178.239.124.134:32283
+trojan://a01b5e27-ece5-4675-866f-36b23a65d2a8@xj.cokecloud.top:32283?allowInsecure=0&peer=xj.cokecloud.top&sni=xj.cokecloud.top#%E6%97%A5%E6%9C%AC%EF%BC%88%E6%B5%B7%E5%A4%96%E4%B8%93%E7%94%A8%EF%BC%89
+trojan://a05dd1a5-228d-4c8f-8f0e-3f928548d6a2@md2.trojvpn.site:443?host=md2.trojvpn.site&path=%2F&sni=google.com&type=ws#sshmax-admin_trojan_ws
