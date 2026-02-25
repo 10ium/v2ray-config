@@ -3,603 +3,603 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/10ium/V2ray-Config
 #profile-web-page-url: https://github.com/10ium/V2ray-Config
-        <div id="cf-error-details" class="cf-error-details-wrapper">
-        <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
-        <span class="cf-footer-separator sm:hidden">&bull;</span>
-        <span class="hidden" id="cf-footer-ip">135.119.237.67</span>
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-      <div class="cf-section cf-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffc13bc9ad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffc2e8a2a177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffc33f83bacc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffc63df61281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffc73fbf5567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffc8fba53b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffca0976fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffcb4c05d62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffcb9b95c5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffcbfa06d634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffcf2de0ef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffcfd95a8062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd14c8c3e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd1a852d739</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd1fcdd6589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd3594ffbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd3ac5ed629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd4ac2123cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd60b995ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd70e74a629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd84c989bd3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffd9594ba2d1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffda0a0f07cf</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffda6c043b59</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffe2ce831770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffe31e105813</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffe419c8d647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffe8f90bcdc4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffeb2df71e81</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffebca751281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffecdd1e3b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dffef6855d634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dfff0b8c1c5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dfff30e328062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dfff55c85ef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dfff9891c3e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dfffa3902d629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2dfffb29ffa629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00006b41d62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0000bcd99bd3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00036dc52899</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00057ada39c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00071ed5d647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0008bb38206f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e000a5a4f5813</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00100c90310c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0010bd7d38a6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0013ec9620d2</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0014dcf3d634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00185d32f276</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0019af0f0837</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e001a58cd081e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e001afed7ef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e001cedd7e3c6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e001dee80395b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e001e3d94084c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e001e9fc3d629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00200f313e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00205eecf270</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00210c4aa629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0024ca505008</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0026ace92899</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e002a8a97d62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e002ad9ebf278</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e002b8c8720a0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e002c381b39c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e002dfe135813</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00321fd23389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00350da6206f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00355b5fd647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00367ab1310c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0036ed6a28c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0037387e20d2</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0039a9691ff7</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e003ad860d634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e003ddb2d3952</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e003e3ac7f276</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e003edf1a38a6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e003fddee0837</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00403ced081e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0040dcdfef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00422a3c395b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00448aab084c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00452968a629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0045cda5fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0046b9735ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00470c84d629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0048cb40aa23</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00491fa3e3c6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e004b5e88d739</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e004bbe662899</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e004c1c56a606</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e004c6e91e5fe</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e004cba163e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e004d5e2c90ac</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e004da8d62720</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00535b26e5fb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0053bdadf278</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00541804586e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0054cf551770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0055bcdad62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00560e005008</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0056fa6f1216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00582e103389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0058dbefe60d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00597b64d647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0059cc8a310c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e005a7e2528c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e005cff5420d2</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e005d99ff5567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e005e8f9539c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e005eda3fd634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e005f39b4a177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e005fdee1b90a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00602939e5f5</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0060cd04d65d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00611880fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0062391d206f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0062db4ee61d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00657fafef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0065ca9f1972</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0066cbc838a6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00671d436589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00677dfe0837</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0067ca793952</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00682e87084c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0068781e05be</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00692a43fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00697e59ad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0069ca82395b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e006a2ce755eb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e006a8bc1a629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e006bdd585ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e006c2c09081e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e006c7d1dd629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e006d2c7c23cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e006e6ef3f270</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0070882e2899</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0070ebbe3e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007138a0a2d1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0071ee3e90ac</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00723b6de5fe</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00728c9d99ad</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0074387bd739</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00748bc69bd3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0074d87420a0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00753d51f276</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00774f4a3997</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007809d3586e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0078d91df278</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0079da4c1770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007a7c9be5fb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007ada0f5813</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007b8b991216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007becc01ff7</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007cbfb4d647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007e7e81310c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007eec405008</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007f8c8428c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e007fda883389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00807d9a20d2</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0080eff6e60d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0081a877391f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0081fb27d62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00824d3739c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0082fe9d5567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0083ece2a177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00843a411281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0084e931d65d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00854c88c5a9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00859a57b90a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0085ebeee5f5</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00863b84206f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00869b04e61d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00873af23b35</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0087d985ff28</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00882efcd634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00887a04fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0088d98c068c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00893c7e1972</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0089d952289e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e008a7e1838a6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e008b2e2a3952</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e008c9adb084c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e008e2a254ba9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e008f19056589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e008f7d98e3c6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e008fc87155eb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0092be49aa23</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00930f495ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0094f8afef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009658de5001</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0096bb38bacc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00970fa5a606</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00985fe2a629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0098bf1cad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00990e34c5c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00995c94d739</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0099abc923cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009a9ca807cf</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009d192a1770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009d68c8824e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009e09379c42</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009e6a03fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009f0e933b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e009facff7001</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00a03ee80612</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00a09e021e81</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00a1dedcc5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00a4185a1216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00a59d98cdc4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00a79f5ea177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00a7ebcd1281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ab4f123b59</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00aeaf1fd65d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00aff9d0fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b0fe5a8062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b14f400605</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b19fde289e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b2aea06589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b60e985ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b65d0ed88a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b6fdf1c5a9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b75c435567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00b91aacd6b3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ba6c8ca2d1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00bb6be3d6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00bd5874d70b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00bdbda923cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00be0a3dad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00be5d0ee57e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00bebab54ba9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00bf6b8e8272</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00bfbd25d6b1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c01f9707cf</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c06c59824e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c49d181770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c58a679c42</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c68ecffbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c778053b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c7de4f1e81</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c82d91c5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c87e241216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c92a493b7d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00c97e77cdc4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ca28507001</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ca78be0612</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00cb78fea177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00cc2d6d1281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00cd794caa23</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00cea898d6ec</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00cf4a561972</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d03effd6e4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d088bf825a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d0ec283b59</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d1ea1c3b35</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d24ba0d65d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d4983dc5c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d4ef9efbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d79f446589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00d7eb348062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00da4c400605</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00db3b4d5567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00db8a42d6a5</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00dd285cff28</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ddff1adda6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e0da2ed6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e12d9f5ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e17a0c23cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e23cf3289e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e2ebc6ad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e3390d8272</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e38ab181c3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e3e8ced6b3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e48b0ef28b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e53cb7d70b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e58c284ba9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e6389f07cf</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e69995824e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e89b04a2d1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e8edeb8199</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00e9ef49068c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ea4cf4d6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00eb2a9d9c42</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ec29d41216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ec78f61770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00eccd383b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ed39ffcdc4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ed8dc81e81</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00edd9647001</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ef2838c5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f029b51281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f07ce6a177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f188173b7d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f28fbfc5a9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f32ffcaa23</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f37c47d6ec</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f42b67fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f47d42d6e4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f61fc3d65d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f86b75d6b1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f8cef33b35</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f91bbe7f9a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f97efefbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00f9cf6ac55e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00fb1f390612</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00fbcc0b3b59</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00fd79f26589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e00ff1ec30605</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01010a238062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01015a81dda6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0101ae255567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0104083c3b3e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01057aa15ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0105c8f79807</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0106dcf1d6b3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0107282cad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0107888e23cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0107db9bf28b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01082f4cd6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0109c91cff28</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e010a78ce1972</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e010b2fbbd70b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e010cdafba2d1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e010dcc5107cf</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e010f1c408199</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e010f7e241216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e010fcf9dd6a5</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01101c5b068c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01107ef14ba9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011179611770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0112c9d0c5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01140a4a1329</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01146a55cdc4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0114b9021e81</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0115693ca177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0115cdd13b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01161abf3b7d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0116781a1281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0116cd62d6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01176b9cfbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0117bbd8d6ec</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01180c22d6e4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011a0f364ba9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011a5fe0d65d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011c4875289e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011cabc8d6b1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011d484cfbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011d9c8ac55e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011e4d053b35</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011eaca057e8</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e011f5ab7aa23</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01200d293b59</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0120cd1e81c3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012179706589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0124cd81dda6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01257cba0605</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0125ca015567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0126cb128062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01296ec89807</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012a1c530612</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012acc693b3e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012b1f0df28b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012b7db981c4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012bd835d704</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012c28ecd704</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012c78755ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012ccd7ed6b3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012d1b7523cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012e2ad6ad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e012e7857d6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01306e5e38a6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01311ce5a2d1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0131b91f3952</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0133f80107cf</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0134abea0837</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0134fe078199</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01355babd70b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0135f87f1216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013648ac1972</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01379c5bff28</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0137ea861770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01384fca38dd</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0138efa31e81</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01393d05a177</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01398e47cdc4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0139e8f1c5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013a4c5ed6a5</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013a9e96fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013aed0e068c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013b4903d6e4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013bfe675008</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013c4eed3b7d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013ce88ad629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013d49381281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013daf6fd6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013e48d9586e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e013ff9d9d6b1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014049d9d62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0140f996c55e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01419e8e289e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0141eb874ba9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01423bdb57e8</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01429fc4d65d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0142e8bad6ec</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014338203b35</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01439b3f3b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01443e856589</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0144baabef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01450c0581c3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01455b974ba9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0145ac9e9bd3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01460a4a6e25</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01465fc255eb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0146a9eb084c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014709efaa23</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01475ab2a606</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0147ab81310c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01486c4d2720</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01490b5e3b59</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01496b70d634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014a0932dda6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014af8521329</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014b5c58e3c6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014c4dc13e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014caf760605</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014d7a821715</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014e18cdf28b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e014fcaa75ceb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01501c358062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015218f4ad56</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015268f923cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01531b6499ad</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0153bafc9807</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01540cb95567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01560f54d6b3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01565b52a2d1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0156a95d90ac</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0156fafdb90a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01594f611216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015a9ddd3b3e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015bab57d6df</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015bfe401770</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015c9bacd647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015d4a4c1e81</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015dbba7ff28</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015e0996d6a5</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015e5dd4fbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015f5e89cdc4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015facc23389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e015ffa73d6e4</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0160f9961972</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0161a848586e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0161fe4cd629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0162997df276</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0162e89e1281</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01639953068c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0163f881d62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01649e5839c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01669f4a1ff7</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01674d923b7d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01679a53ef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e016839d93b02</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0168edeec5f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01693bc59bd3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01699a2e5813</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e016b0935289e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e016c5e43d634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e016d588c3b59</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e016e0fe255eb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01709d270612</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0170f8e36e25</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01719aa8a606</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0171ecac3e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0172d9fae5f5</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01732e1b8062</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01747e162720</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01787a58f270</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017a1a2490ac</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017a6ea199ad</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017b5907e5fe</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017c0c4b206f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017c6c49e5fb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017cb9f0b90a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017ebdb4f278</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e017f59f82054</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01801f53e617</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01811eb820a0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01817e531715</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e018218cce63f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0184c9df05be</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01857eb73389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0185cfc3d647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01861cf2586e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01866fece60d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0186bdeee5b8</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01876b24d629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01890ae1f276</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01897a18d62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0189cf7539c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e018bbcaa3389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e018c6b3e0590</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e018d6f7ee3c6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e018dbb801ff7</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e018e0e0bef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e018f0fd29bd3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e019059835813</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01915844e61d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0192082b826e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e019448b8c5a9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e019498556e25</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0194ecd9057a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e0199fca1c5c2</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e019afa3ad634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e019b58a57001</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e019c5e803952</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a31be7e5fb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a3bed690ac</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a46912824e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a5b81ea606</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a74ec3e5fe</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a79bca391f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a7ea4805be</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01a95808d647</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01aa0e5338a6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01aa598820a0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01aab93fb90a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ab680e2720</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01abbdb055eb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ac5d833389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01acf91bd62d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ad593338dd</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01adfc32f270</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ae4fbbe617</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ae9c2f586e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01aee979f276</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01af3c8c9c42</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01afeec5d629</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b09d8199ad</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b2dc48e60d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b379be3e6c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b3cb3e3997</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b4186a084c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b47f94f278</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b4c8759bd3</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b58acdef60</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b5db7e310c</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b6de51e61d</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b728131ff7</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b78aba5813</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b87d99c5a9</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b8d9d38272</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01b99b765008</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ba8e046e25</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01bb9931395b</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01bc487439c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01beec85d634</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01bfe92c7001</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c0d90b081e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c139193952</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c18ea1e3c6</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c1e96caa23</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c23b58206f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c2eca70837</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c38dabc5c0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c3de753389</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c42eb2825a</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c48a611715</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c4e9c60590</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c53ded9807</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c5e84ce5b8</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c63a4cc5c2</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c68ff1e5fb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c6dae786f1</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c739750805</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c7e9611216</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c83b4790ac</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c89da3e5f8</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c93967e63f</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c98bde826e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01c9e8c2d645</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ca3efb5567</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01ca88bfe5fe</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01cad96e1972</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01cb4a6605be</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01cce86afbd0</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01cf08c7a606</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01cf6aa055eb</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01cfb86323cc</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01d7bc42586e</strong></span>
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9d2e01dab862a177</strong></span>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#🔒 SS-TCP-NA 🇧🇬 BG-95.164.113.153:5669
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669/?outline=1#@vpnclashfa - 3679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWjdpYkJ5cFdZSHNsWDloemV0ZU12@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTE5NmI5MzE3MThjZjJhQDU3LjEyOS4xMjkuMjM4OjE3NzIz#%5BSS%2031%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45310#🔒 SS-TCP-NA 🇻🇳 VN-112.197.26.106:45310
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45311#🔒 SS-TCP-NA 🇻🇳 VN-112.197.26.106:45311
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#🔒 SS-TCP-NA 🇻🇳 VN-112.197.26.106:45312
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45313#🔒 SS-TCP-NA 🇻🇳 VN-112.197.26.106:45313
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVlZmQ1Y2Y5ZTk0N2Fk@54.36.116.190:11201#🇩🇪DE%20%20ROSE—136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVlZmQ1Y2Y5ZTk0N2FkQDU0LjM2LjExNi4xOTA6MTEyMDE=#%5BSS%2032%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29461#🔒 SS-TCP-NA 🇸🇦 SA-163.171.207.11:29461
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#%5BSS%2033%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#🇸🇦SA%20%20ROSE—230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#🇸🇦SA%20%20ROSE—230🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29463#🇸🇦SA%20%20ROSE—231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#🇸🇦SA%20%20ROSE—232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#%5BSS%2034%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#🇬🇷GR%20%20ROSE—33
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#%5BSS%2035%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#@vpnclashfa - 3680
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#🇰🇿KZ%20%20ROSE—89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#🔒 SS-TCP-NA 🇰🇿 KZ-213.156.137.142:43660
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660?#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-156
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660?#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BF%20KZ-199
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660?#@vpnclashfa - 3681
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660?note=@FreeOnlineVPN#@vpnclashfa - 3682
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660?type=tcp#@vpnclashfa - 3683
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43662#@vpnclashfa - 3684
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43663#@vpnclashfa - 3685
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRjQDIxMy4xNTYuMTM3LjE0Mjo0MzY2MA==#@vpnclashfa - 3686
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZjlwVEUyc1ZUOVVVdmFsVG1LNzJJ@45.144.54.33:34803#@vpnclashfa - 3687
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#@vpnclashfa - 3688
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+192.71.218.46-443+%7C+95.31ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#🔒 SS-TCP-NA 🇮🇸 IS-192.71.218.46:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakVsWG5FZk1ZTDZQcmtybVBHZDR3@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.137:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.144:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.153:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.143:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.162:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.164-8080+%7C+97.67ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.164:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164:8080?prefix=%16%03%01%00%C2%A8%01%01#@vpnclashfa - 3689
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.179:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0186
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0250
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.189:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.217:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.217:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#@vpnclashfa - 3690
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#🇺🇸US%20%20ROSE—666
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%40EuServer
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#@vpnclashfa - 3691
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#🇺🇸US%20%20ROSE—683
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28140%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%40MARAMBASHI%20%F0%9F%A7%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#@vpnclashfa - 3692
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#%40Vpn_Tehran+%F0%9F%92%96+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%88%DB%8C%DA%98%D9%87+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%40rxv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#@vpnclashfa - 3693
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#🇵🇱PL%20%20ROSE—685
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMDZhOGJjMDkxM2U5MTNj@51.89.10.173:11201#🇩🇪DE%20%20ROSE—131
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMDZhOGJjMDkxM2U5MTNjQDUxLjg5LjEwLjE3MzoxMTIwMQ==#%5BSS%2036%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1QDE2My4xNzEuMjEzLjQ2OjExMjAx#@vpnclashfa - 3694
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMXZOQThQSEdrTksyVUFxMG8zUjhZ@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMXZOQThQSEdrTksyVUFxMG8zUjhZ@81.19.141.45:443#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjg1M2Y5YmI4Nzc3NzM0@57.129.94.79:11207?#@vpnclashfa - 3695
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#free12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#@vpnclashfa - 3696
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#🇫🇷FR%20%20ROSE—184
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMzQDUxLjE3OC4xMTQuODM6MTEyMDI=#%5BSS%2037%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#%5BSS%2038%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#@vpnclashfa - 3697
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+57.129.95.198-11201+%7C+125.81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+57.129.95.198-11201+%7C+133.56ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#🇩🇪DE%20%20ROSE—50
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#🔒 SS-TCP-NA 🇩🇪 DE-57.129.95.198:11201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201?#@vpnclashfa - 3698
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTE5YTQ0MjI3NzMwNWRi@37.59.24.117:10018#@vpnclashfa - 3699
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTMzMjI1ZTZlMzgwZGFk@62.146.224.145:20591#🇺🇸US%20%20ROSE—34
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTMzMjI1ZTZlMzgwZGFk@62.146.224.145:20591#🔒 SS-TCP-NA 🇺🇸 US-62.146.224.145:20591
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%5BSS%2039%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTc0NTczYmViM2YzMGQ0@57.128.30.201:11201#@vpnclashfa - 3700
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOVFaNUJnS0lPTWIzdjJJeHdudUx2@104.192.227.162:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%20%40key_outline%20%236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#🔒 SS-TCP-NA 🇫🇮 FI-38.244.136.233:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%F0%9F%87%AB%F0%9F%87%AEFI-38.244.136.233-0263
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#🌐سرور 1113 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#🌐سرور 1114 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkR1p5d1lxUGRWRTU0UFQxM1dOVVZ6@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkRG5XWXNHN2tCTTZWWGN1c1UyTG5R@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTA2MGE4ZGUzNDY3MTc0@57.128.190.212:10013#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTA2MGE4ZGUzNDY3MTc0@57.128.190.212:10013#@vpnclashfa - 3701
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#🔒 SS-TCP-NA 🇸🇬 SG-154.26.132.38:27882
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#🔒 SS-TCP-NA 🇸🇬 SG-154.26.132.38:27884
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3QDE1NC4yNi4xMzIuMzg6Mjc4ODM=#@vpnclashfa - 3702
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3QDE1NC4yNi4xMzIuMzg6Mjc4ODU=#@vpnclashfa - 3703
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZXBqU2JqdjJVcWw2VzRWZ2U3c0Rm@185.39.204.189:34085#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+185.39.204.189-34085+%7C+122.06ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZXBqU2JqdjJVcWw2VzRWZ2U3c0Rm@185.39.204.189:34085/?outline=1#@vpnclashfa - 3704
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZzNzU3Rtc0FTbUd2TTc1S3NVTHdjNXNQcEdOc1hGVw==@138.124.118.94:8080#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeldLcE1pYkFKSDNZZVRSNUxaMUVK@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589/?outline=1#@vpnclashfa - 3705
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201#@vpnclashfa - 3706
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMTA1MmIwZTZjOTQ5NDgx@162.19.228.25:16014#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMTA1MmIwZTZjOTQ5NDgx@162.19.228.25:16014#[
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724#@vpnclashfa - 3707
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+162.19.214.191-59724+%7C+93.17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724#FR%F0%9F%87%AB%F0%9F%87%B7+%7C+162.19.214.191-59724+%7C+96.28ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724#🔒 SS-TCP-NA 🇫🇷 FR-162.19.214.191:59724
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3lRS09lbEtNNFVJSkNaWUxyelFY@162.19.214.191:59724/?outline=1#@vpnclashfa - 3708
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNDA2ZGE1MGIzMzQzNDBl@51.89.10.151:11201#🇩🇪DE%20%20ROSE—130
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNDA2ZGE1MGIzMzQzNDBlQDUxLjg5LjEwLjE1MToxMTIwMQ==#%5BSS%2040%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWMzZjkwM2U4MWQ1ZDRl@57.128.190.194:10013#@vpnclashfa - 3709
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzk5YjkwM2EzMmZjMWZl@51.161.32.44:13026#🇨🇦CA%20%20ROSE—122
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzk5YjkwM2EzMmZjMWZl@51.161.32.44:13026#🇨🇦CA%20%20ROSE—122🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplT2g2OUs5RTg3NFFyTDBtRU9HSTBj@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.170-56019+%7C+74.52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019/?outline=1#@vpnclashfa - 3710
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVEpLQWlPTldhcDk1NVJreHlQaTNG@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20Vienna%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#@vpnclashfa - 3711
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYVR6TUphWU5pVXU4R0t1VE9lZmtl@212.192.14.234:24441/?outline=1#@vpnclashfa - 3712
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#🔒 SS-TCP-NA 🇺🇦 UA-163.171.137.76:47393
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#%5BSS%2041%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@at01.network-cdn-gw-yd.net:50004#%E9%98%BF%E6%A0%B9%E5%BB%B7-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@au.network-cdn-gw-yd.net:20003#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@brd.network-cdn-gw-yd.net:41118#%E5%BE%B7%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@ca.network-cdn-gw-yd.net:20007#%E5%8A%A0%E6%8B%BF%E5%A4%A7-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@db.network-cdn-gw-yd.net:50011#%E8%BF%AA%E6%8B%9C-IEPL-Pro-01%E4%B8%93%E7%BA%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@dk.network-cdn-gw-yd.net:20008#%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@es01.network-cdn-gw-yd.net:50001#%E4%BF%84%E7%BD%97%E6%96%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@fl.network-cdn-gw-yd.net:43302#%E5%B7%B4%E8%A5%BF-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@fr.network-cdn-gw-yd.net:20004#%E6%B3%95%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk09.network-cdn-gw-yd.net:47709#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-09
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk1.network-cdn-gw-yd.net:32060#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk11.network-cdn-gw-yd.net:47711#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk13.network-cdn-gw-yd.net:32061#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-03
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk14.network-cdn-gw-yd.net:32062#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk15.network-cdn-gw-yd.net:47705#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk16.network-cdn-gw-yd.net:47706#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk17.network-cdn-gw-yd.net:47707#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-07
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk18.network-cdn-gw-yd.net:47708#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-08
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk2.network-cdn-gw-yd.net:32063#%E9%A6%99%E6%B8%AF-IEPL-Basic%E4%B8%93%E7%BA%BF-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk3.network-cdn-gw-yd.net:32058#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2026-03-13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk3.network-cdn-gw-yd.net:32058#%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A3%3Atop.gw-yd.net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hk3.network-cdn-gw-yd.net:32058#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A380%20%E5%A4%A9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp1.network-cdn-gw-yd.net:49901#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp11.network-cdn-gw-yd.net:48820#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp2.network-cdn-gw-yd.net:49902#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp3.network-cdn-gw-yd.net:49903#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-03
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp4.network-cdn-gw-yd.net:49904#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp5.network-cdn-gw-yd.net:49905#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp6.network-cdn-gw-yd.net:48816#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp7.network-cdn-gw-yd.net:48817#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-07
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp8.network-cdn-gw-yd.net:48818#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-08
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@hkp9.network-cdn-gw-yd.net:48819#%E9%A6%99%E6%B8%AF-IEPL-Pro%E4%B8%93%E7%BA%BF-09
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@in01.network-cdn-gw-yd.net:43304#%E5%8D%B0%E5%BA%A6-IEPL-Pro%E4%B8%93%E7%BA%BF-01%7Cx2%7C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@it.network-cdn-gw-yd.net:20006#%E6%84%8F%E5%A4%A7%E5%88%A9-IEPL-Pro%E4%B8%93%E7%BA%BF01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@jp01.network-cdn-gw-yd.net:48801#%E6%97%A5%E6%9C%AC-IEPL-Basic%E4%B8%93%E7%BA%BF-01%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@jp04.network-cdn-gw-yd.net:48804#%E6%97%A5%E6%9C%AC-IEPL-Pro%E4%B8%93%E7%BA%BF-02%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@jp05.network-cdn-gw-yd.net:48805#%E6%97%A5%E6%9C%AC-IEPL-Pro%E4%B8%93%E7%BA%BF-03%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@jp2.network-cdn-gw-yd.net:48802#%E6%97%A5%E6%9C%AC-IEPL-Basic%E4%B8%93%E7%BA%BF-02%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@jp3.network-cdn-gw-yd.net:48803#%E6%97%A5%E6%9C%AC-IEPL-Pro%E4%B8%93%E7%BA%BF-01%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@kr01.network-cdn-gw-yd.net:41117#%E9%9F%A9%E5%9B%BD-EIPL-Pro%E4%B8%93%E7%BA%BF-%7CX2%7C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@kr03.network-cdn-gw-yd.net:36220#%E9%9F%A9%E5%9B%BD-IEPL-Basic%E4%B8%93%E7%BA%BF-%7CX2%7C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@mas.network-cdn-gw-yd.net:43305#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@mas1.network-cdn-gw-yd.net:43307#%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-IEPL-Pro%E4%B8%93%E7%BA%BF-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@ph.network-cdn-gw-yd.net:20005#%E8%8F%B2%E5%BE%8B%E5%AE%BE-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@sgp01.network-cdn-gw-yd.net:45506#%E6%96%B0%E5%8A%A0%E5%9D%A1-IEPL-Basic%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@sgp02.network-cdn-gw-yd.net:45507#%E6%96%B0%E5%8A%A0%E5%9D%A1-IEPL-Pro%E4%B8%93%E7%BA%BF-01%7Cgpt%7C%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@sgp05.network-cdn-gw-yd.net:45510#%E6%96%B0%E5%8A%A0%E5%9D%A1-IEPL-Pro%E4%B8%93%E7%BA%BF-04%7Cgpt%7C%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@sgp3.network-cdn-gw-yd.net:45508#%E6%96%B0%E5%8A%A0%E5%9D%A1-IEPL-Pro%E4%B8%93%E7%BA%BF-02%7Cgpt%7C%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@sgp4.network-cdn-gw-yd.net:45509#%E6%96%B0%E5%8A%A0%E5%9D%A1-IEPL-Pro%E4%B8%93%E7%BA%BF-03%7Cgpt%7C%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@tk.network-cdn-gw-yd.net:41116#%E6%B3%B0%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@tr03.network-cdn-gw-yd.net:36221#%E5%9C%9F%E8%80%B3%E5%85%B6-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@tw02.network-cdn-gw-yd.net:46602#%E5%8F%B0%E6%B9%BE-IEPL-Pro%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@tw03.network-cdn-gw-yd.net:46603#%E5%8F%B0%E6%B9%BE-IEPL-Pro%E4%B8%93%E7%BA%BF-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@tw04.network-cdn-gw-yd.net:46604#%E5%8F%B0%E6%B9%BE-IEPL-Pro%E4%B8%93%E7%BA%BF-03
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@tw05.network-cdn-gw-yd.net:46605#%E5%8F%B0%E6%B9%BE-IEPL-Pro%E4%B8%93%E7%BA%BF-04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@tw1.network-cdn-gw-yd.net:46601#%E5%8F%B0%E6%B9%BE-IEPL-Basic%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@uks1.network-cdn-gw-yd.net:10014#%E8%8B%B1%E5%9B%BD-IEPL-Basic%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@uks1.network-cdn-gw-yd.net:10015#%E8%8B%B1%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us01.network-cdn-gw-yd.net:44401#%E7%BE%8E%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-01%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us02.network-cdn-gw-yd.net:44402#%E7%BE%8E%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-02%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us03.network-cdn-gw-yd.net:44403#%E7%BE%8E%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-03%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us04.network-cdn-gw-yd.net:44404#%E7%BE%8E%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-04%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us05.network-cdn-gw-yd.net:44405#%E7%BE%8E%E5%9B%BD-IEPL-Pro%E4%B8%93%E7%BA%BF-05%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us06.network-cdn-gw-yd.net:43111#%E7%BE%8E%E5%9B%BD-IEPL-Basic-01%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us07.network-cdn-gw-yd.net:43211#%E7%BE%8E%E5%9B%BD-IEPL-Basic-02%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us08.network-cdn-gw-yd.net:43212#%E7%BE%8E%E5%9B%BD-IEPL-Basic-03%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us10.network-cdn-gw-yd.net:43215#%E7%BE%8E%E5%9B%BD-IEPL-Basic-05%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@us9.network-cdn-gw-yd.net:43213#%E7%BE%8E%E5%9B%BD-IEPL-Basic-04%7Cgpt%7C%E4%B8%93%E7%94%A8%E7%BA%BF%E8%B7%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@vn01.network-cdn-gw-yd.net:20001#%E8%B6%8A%E5%8D%97-IEPL-Basic%E4%B8%93%E7%BA%BF-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjlhZmY5Ni02NTRkLTRiODQtYmZiZC0zMGQ1N2E5MjdlNGQ@vn02.network-cdn-gw-yd.net:20002#%E8%B6%8A%E5%8D%97-IEPL-Pro%E4%B8%93%E7%BA%BF-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYmY5MTVlZGE1NGJkZmFj@141.95.107.129:11201#@vpnclashfa - 3713
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#@vpnclashfa - 3714
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#🌐سرور 460 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#🌐سرور 461 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU=@183.232.229.164:11002#26%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjMzYzUzZjZlOWUzYzFi@85.239.232.127:10026#🇺🇸US%20%20ROSE—143
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjMzYzUzZjZlOWUzYzFiQDg1LjIzOS4yMzIuMTI3OjEwMDI2#%5BSS%2042%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#%5BSS%2043%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#🇩🇪DE%20%20ROSE—137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpldkZJcVhPYzU1eExITWx1dTV6WDMx@95.164.123.196:57493#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+95.164.123.196-57493+%7C+94.7ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpldkZJcVhPYzU1eExITWx1dTV6WDMx@95.164.123.196:57493#🔒 SS-TCP-NA 🇩🇪 DE-95.164.123.196:57493
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpldkZJcVhPYzU1eExITWx1dTV6WDMx@95.164.123.196:57493/?outline=1#@vpnclashfa - 3715
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#🔒 SS-TCP-NA 🇫🇷 FR-51.68.83.117:11201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN2M2MDIzNjNkNjYxMTNkQDE1NC41My4zNi4yNjoyNzg1Mg==#%5BSS%2044%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#%5BSS%2045%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#🌐سرور 420 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#🌐سرور 421 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNzY3NjMwYWVkNjAwOWY0QDU3LjEyOS45NS41MDoxMTIwMQ==#%5BSS%2046%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#🇻🇳VN%20%20ROSE—379
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#🔒 SS-TCP-NA 🇻🇳 VN-103.163.218.2:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BB%F0%9F%87%B3-Nh%C3%A0B%C3%A8-653ms-LAM%20A%20Architecture%20Construction%20Company%20Limited
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#🇺🇸US%20%20ROSE—365
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#🔒 SS-TCP-NA 🇺🇸 US-104.192.226.106:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3%20India%20-%20Bengaluru%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🇮🇳IN%20%20ROSE—390
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🔒 SS-TCP-NA 🇮🇳 IN-134.209.147.198:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%B3-Bengaluru-609ms-DigitalOcean%20LLC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20SS%20%7C%20%40NamiraConfigs%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#t.me/OutlineVpnOfficial
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#🔒 SS-TCP-NA 🇨🇾 CY-134.255.210.49:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990?#%F0%9F%87%A8%F0%9F%87%BE%20Limassol%2C%2002%2C%20Cyprus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#@vpnclashfa - 3716
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#CR%F0%9F%87%A8%F0%9F%87%B7+%7C+145.14.131.37-990+%7C+98.11ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#🇨🇷CR%20%20ROSE—397
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#🇨🇷CR%20%20ROSE—397🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#🇲🇽MX%20%20ROSE—415
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Jakarta%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AE%F0%9F%87%A9-Jakarta-781ms-Kaopu%20Cloud%20HK%20Limited
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#%F0%9F%87%B2%F0%9F%87%B9%20Valletta%2C%2060%2C%20Malta
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#🇲🇹MT%20%20ROSE—684
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#🔒 SS-TCP-NA 🇲🇹 MT-171.22.254.17:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20-%20Bucharest%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🔒 SS-TCP-NA 🇷🇴 RO-185.126.237.38:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%B4-Bucharest-1550ms-ONEPROVIDER
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🔒 SS-TCP-NA 🇧🇷 BR-185.192.124.188:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990?#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40filtershekan_channel%20%5B13%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%7C%20SS%20%7C%20%40NamiraConfigs%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#🇵🇪PE%20%20ROSE—419
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#🔒 SS-TCP-NA 🇵🇪 PE-185.47.252.251:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#🇪🇨EC%20%20ROSE—402
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#🔒 SS-TCP-NA 🇪🇨 EC-185.47.253.171:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990?#%F0%9F%87%AA%F0%9F%87%A8%20Quito%2C%20P%2C%20Ecuador
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#🇪🇨EC%20%20ROSE—688
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#🔒 SS-TCP-NA 🇪🇨 EC-185.47.253.227:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AA%F0%9F%87%A8-Quito-307ms-ONEPROVIDER
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#🇬🇹GT%20%20ROSE—686
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#🔒 SS-TCP-NA 🇬🇹 GT-185.47.254.87:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990?#%F0%9F%87%AC%F0%9F%87%B9%20Guatemala%20City%2C%2001%2C%20Guatemala
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#🇵🇷PR%20%20ROSE—388
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#🔒 SS-TCP-NA 🇵🇷 PR-185.47.255.22:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990?#%F0%9F%87%B5%F0%9F%87%B7%20PR%20-%20Puerto%20Rico
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#🇪🇪EE%20%20ROSE—403
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#🔒 SS-TCP-NA 🇪🇪 EE-188.214.36.155:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#%F0%9F%87%B8%F0%9F%87%AE%20SI%20%7C%20SS%20%7C%20%40NamiraConfigs%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%20-%20Ljubljana%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#@vpnclashfa - 3717
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🇸🇮SI%20%20ROSE—428
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🔒 SS-TCP-NA 🇸🇮 SI-192.71.244.150:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AE-Ljubljana-391ms-Optimus%20IT%20d.o.o.
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🔒 SS-TCP-NA 🇨🇿 CZ-195.181.160.6:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#🔒 SS-TCP-NA 🇭🇰 HK-203.23.128.33:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20-%20Taipei%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹🇼TW%20%20ROSE—691
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🔒 SS-TCP-NA 🇹🇼 TW-223.165.4.173:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B9%F0%9F%87%BC-Taipei-597ms-ONEPROVIDER
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#🔒 SS-TCP-NA 🇵🇾 PY-38.165.233.18:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷AR%20%20ROSE—382
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🔒 SS-TCP-NA 🇦🇷 AR-38.54.45.129:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20Barcelona%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🇪🇸ES%20%20ROSE—378
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🔒 SS-TCP-NA 🇪🇸 ES-45.154.206.192:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AA%F0%9F%87%B8-Barcelona-372ms-BrainStorm%20Network%20Inc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#@vpnclashfa - 3718
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#US%F0%9F%87%BA%F0%9F%87%B8+%7C+64.74.163.218-990+%7C+24.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#free4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#🇨🇦CA%20%20ROSE—366
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#🔒 SS-TCP-NA 🇺🇸 US-64.74.163.218:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6%20SS-%E8%8B%B1%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-79.127.233.170%3A990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔒 SS-TCP-NA 🇨🇦 CA-79.127.233.170:990
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQlRsNDA5WHFnM0R3cUtpbGkwTlFG@95.164.123.39:32821#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+95.164.123.39-32821+%7C+105.4ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQlRsNDA5WHFnM0R3cUtpbGkwTlFG@95.164.123.39:32821#🔒 SS-TCP-NA 🇩🇪 DE-95.164.123.39:32821
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQlRsNDA5WHFnM0R3cUtpbGkwTlFG@95.164.123.39:32821/?outline=1#@vpnclashfa - 3719
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmQlRsNDA5WHFnM0R3cUtpbGkwTlFGQDk1LjE2NC4xMjMuMzk6MzI4MjE=#%5BSS%2047%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUVZ4ZFExVnhEdXlENVVhNkQ3b0RB@62.133.60.60:7048#🇩🇪DE%20%20ROSE—141
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYTc2ZDZmMDljMjAzYTU5@198.244.149.86:26115#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWQwODQ3NTQ2YWM5MjVhQDE0MS45NS4xMDMuMjE1OjExMjAx#%5BSS%2048%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E5%AE%98%E7%BD%91%20https%3A%2F%2Fwww.dg6.me%E2%9D%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E5%AE%98%E7%BD%91%20https%3A%2F%2Fwww.qf1.us%E2%9D%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E5%AE%98%E7%BD%91%20https%3A%2F%2Fwww.vp1.link%E2%9D%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E6%82%A8%E5%B7%B2%E5%88%B0%E6%9C%9F%E6%88%96%E6%B5%81%E9%87%8F%E7%94%A8%E5%AE%8C%E2%9D%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E7%BB%AD%E8%B4%B9%E5%90%8E%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E2%9D%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E8%AF%B7%E7%BB%AD%E8%B4%B9%E4%BD%BF%E7%94%A8%E2%9D%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%EF%B8%8F%E6%82%A8%E5%B7%B2%E5%88%B0%E6%9C%9F%E6%88%96%E6%B5%81%E9%87%8F%E7%94%A8%E5%AE%8C%E2%9D%97%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%EF%B8%8F%E8%AF%B7%E7%BB%AD%E8%B4%B9%E4%BD%BF%E7%94%A8%E2%9D%97%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYngxRnc3bUVOQ2Q3dlpNdm9yUVo1@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYzM0Mzg2NGQ0MDY0MDUx@66.94.113.2:27115#%5BSS%2049%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYzM0Mzg2NGQ0MDY0MDUx@66.94.113.2:27115#🇺🇸US%20%20ROSE—142
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#%5BSS%2050%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#🔒 SS-TCP-NA 🇻🇳 VN-112.197.26.106:26417
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@212.224.125.154:57456#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#🔒 SS-TCP-NA 🇵🇰 PK-119.159.245.24:29700
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjgwN2VlNTJlMzI3NTJm@185.241.193.107:443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1paYVFmeGdsUUViRnBpRHlLRWRO@46.246.96.191:15721#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+46.246.96.191-15721+%7C+111.5ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1paYVFmeGdsUUViRnBpRHlLRWRO@46.246.96.191:15721#🔒 SS-TCP-NA 🇸🇪 SE-46.246.96.191:15721
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1paYVFmeGdsUUViRnBpRHlLRWRO@46.246.96.191:15721/?outline=1#@vpnclashfa - 3720
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma3hYaFM5VlVtV21vQzlOOXh1MldCalZvRUdWN1VaVA@srv12.outlinekeys.com:1080#@vpnclashfa - 3721
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#@vpnclashfa - 3722
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%87%B9%F0%9F%87%B7%20314%20-%20TR%20-%20SS%2FAEAD%20-%2035
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#@vpnclashfa - 3723
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#🇹🇷TR%20%20ROSE—35
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQ1g4bm4zbm03cWx6Y3JCdUFueHJL@2.56.176.23:4533#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+2.56.176.23-4533+%7C+96.22ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQ1g4bm4zbm03cWx6Y3JCdUFueHJL@2.56.176.23:4533#🔒 SS-TCP-NA 🇨🇾 CY-2.56.176.23:4533
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQ1g4bm4zbm03cWx6Y3JCdUFueHJL@2.56.176.23:4533/?outline=1#@vpnclashfa - 3724
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnS2FFMzMzU09uRHRBRTV6ZVo0dWxw@dyn.usa.outlinekeys.net:56636#🇺🇸US%20%20ROSE—429
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg==@185.156.110.92:443#%F0%9F%87%AD%F0%9F%87%B7%20Croatia%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg==@185.156.110.92:443#🔒 SS-TCP-NA 🇭🇷 HR-185.156.110.92:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#🇭🇷HR%20%20ROSE—405
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZ3FBMUpzYTBuVTNMWkVlcGVTWDU0Ym43MnRCQ1dNMQ==@185.234.59.74:8444#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZ3FBMUpzYTBuVTNMWkVlcGVTWDU0Ym43MnRCQ1dNMQ==@185.234.59.97:8444#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20Moscow%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZTBTMGs5VVFadUpTNE41cEVIODBF@145.249.109.148:16548#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+145.249.109.148-16548+%7C+102.52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZTBTMGs5VVFadUpTNE41cEVIODBF@145.249.109.148:16548#🔒 SS-TCP-NA 🇷🇺 RU-145.249.109.148:16548
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZTBTMGs5VVFadUpTNE41cEVIODBF@145.249.109.148:16548/?outline=1#@vpnclashfa - 3725
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndmFVQzBJS0FDbm84cDA1RllaTG9N@31.3.209.182:52323#@vpnclashfa - 3726
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndmFVQzBJS0FDbm84cDA1RllaTG9N@31.3.209.182:52323#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.3.209.182-52323+%7C+185.88ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTHp0WFRISFJLOFN1RUt5bVRkZExMaEVfLWV5ZlFMSw@95.163.210.225:1080#@vpnclashfa - 3727
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTHp0WFRISFJLOFN1RUt5bVRkZExMaEVfLWV5ZlFMSw@95.163.210.225:1080#🇷🇺RU%20%20ROSE—177
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoU2hwMUttME5jRlNtU2lnYzhvemt5@195.66.27.148:28709#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+195.66.27.148-28709+%7C+107.8ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoU2hwMUttME5jRlNtU2lnYzhvemt5@195.66.27.148:28709#🔒 SS-TCP-NA 🇳🇱 NL-195.66.27.148:28709
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoU2hwMUttME5jRlNtU2lnYzhvemt5@195.66.27.148:28709/?outline=1#@vpnclashfa - 3728
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇺🇸US%20%20ROSE—55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🔒 SS-TCP-NA 🇺🇸 US-38.135.24.131:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20SS-20%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20SS-23%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US-38.135.24.131-0254
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US-38.135.24.131-0328
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#@vpnclashfa - 3729
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#US%20114.9KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+tinkered-pennies-puppies.freesocks.work-443+%7C+430.26ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#🇺🇸US%20%20ROSE—28
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#🏳[openproxylist.com] ss-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+46.246.96.30-31561+%7C+103.61ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561#🔒 SS-TCP-NA 🇸🇪 SE-46.246.96.30:31561
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:31561/?outline=1#@vpnclashfa - 3730
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeWVSc2xXaHlCYW5SRFc2UHlUaVND@212.192.14.73:65330#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+212.192.14.73-65330+%7C+122.21ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeWVSc2xXaHlCYW5SRFc2UHlUaVND@212.192.14.73:65330/?outline=1#@vpnclashfa - 3731
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoenhRb2ZOQWNUazJ4bzJkcnp4cElF@91.239.208.204:17477#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+91.239.208.204-17477+%7C+81.36ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoenhRb2ZOQWNUazJ4bzJkcnp4cElF@91.239.208.204:17477#🔒 SS-TCP-NA 🇫🇷 FR-91.239.208.204:17477
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoenhRb2ZOQWNUazJ4bzJkcnp4cElF@91.239.208.204:17477/?outline=1#@vpnclashfa - 3732
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOWxpcDJkSjhrVjR3SlEwcEp1UnI2@185.100.159.79:443#@vpnclashfa - 3733
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOWxpcDJkSjhrVjR3SlEwcEp1UnI2@185.100.159.79:443#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+185.100.159.79-443+%7C+87.79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOWxpcDJkSjhrVjR3SlEwcEp1UnI2@185.100.159.79:443#🔒 SS-TCP-NA 🇩🇪 DE-185.100.159.79:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppRzFuUzlNTWdzMG9FSk05ZzFZVGds@94.131.123.236:5223#🇹🇷TR%20%20ROSE—550
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.89.55.173-443+%7C+122.52ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#@vpnclashfa - 3734
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#🇷🇸RS%20%20ROSE—422
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#🇷🇸RS%20%20ROSE—422🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#%5BSS%2051%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#%F0%9F%87%B9%F0%9F%87%B7TR-62.60.233.220-0267
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#@vpnclashfa - 3735
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.60.233.220-18685+%7C+121.97ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.60.233.220-18685+%7C+132.69ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#🆔anty_filter%20🔒%20SS-TCP-TLS%20❔%20XX%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#🆔speeds_vpn1%20🔒%20SS-TCP-TLS%20❔%20XX%20176ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#🆔vpnbaz%20🔒%20SS-TCP-TLS%20❔%20XX%20187ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#🇹🇷TR%20%20ROSE—111
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#🔒 SS-TCP-NA 🇹🇷 TR-62.60.233.220:18685
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685/?outline=1#@vpnclashfa - 3736
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685?type=tcp#🌐سرور 883 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685?type=tcp#🌐سرور 884 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqQnlZSUE2TFc0cHNaM0JHYjRQZUtT@72.61.79.179:45084#🇺🇸US%20%20ROSE—433
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUDRaOUozUzZ0QWxkQ2FTZEN0YVpSN2dadFY3clFnMA==@64.31.63.92:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjVXZzMyWHpFZ0NYazRNUENndmQxRzFUczhXSEJMc1hNVWFxTWE1RFVYTXVxTW1kWmdDYk1pcFhEaG9BbWo3M3FBOW9ZODV6WEszNUw1bTYzMVRuN2luMnAzS0xiV0Y@46.249.109.128:56594#🇫🇮FI%20%20ROSE—220
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdE5ZcGhyOG5YY3Bwbk1TQ0ZIZksxVEUzNjlDM1dBZg==@103.109.234.117:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdE5ZcGhyOG5YY3Bwbk1TQ0ZIZksxVEUzNjlDM1dBZg==@185.207.136.215:8388#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.137:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20NA%20%F0%9F%8C%8F%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#@vpnclashfa - 3737
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#🇺🇸US%20%20ROSE—667
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.164:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#🇺🇸US%20%20ROSE—668
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.185:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.188:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.192:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#@vpnclashfa - 3738
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#🇺🇸US%20%20ROSE—669
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%5BSS%2052%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.176-0230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.176-0276
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#@vpnclashfa - 3739
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.176-8080+%7C+95.77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🆔speeds_vpn1%20🔒%20SS-TCP-TLS%20❔%20XX%20153ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱NL%20%20ROSE—22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.176:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-622
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-762
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-960
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%5BSS%2053%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0247
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0266
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#🇳🇱NL%20%20ROSE—164
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.179:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%5BSS%2054%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.184-0309
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.184-4732
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#@vpnclashfa - 3740
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.184-8080+%7C+96.46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🆔speeds_vpn1%20🔒%20SS-TCP-TLS%20❔%20XX%20155ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱NL%20%20ROSE—19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.184:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080?#%DB%B9%D8%AC%D8%AD%DB%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080?#Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%5BSS%2055%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#@vpnclashfa - 3741
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#🇳🇱NL%20%20ROSE—165
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0208
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.187-0243
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.187:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080?#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%5BSS%2056%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#@vpnclashfa - 3742
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.189-8080+%7C+98.15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a0a.xyz%E3%80%918
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🆔ar14n24b%20🔒%20SS-TCP-TLS%20❔%20XX%20145ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇳🇱NL%20%20ROSE—47
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.189:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080?#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1957
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@vpnclashfa - 3743
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.191-0190
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.191-0256
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.191:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.194-0196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.194-0245
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.194:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%5BSS%2057%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-0240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.199-4604
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#@vpnclashfa - 3744
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.199-8080+%7C+96.29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🆔fr33c0nfig%20🔒%20SS-TCP-TLS%20❔%20XX%20146ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🇳🇱NL%20%20ROSE—21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🌐سرور 290 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🌐سرور 291 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.199:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-722
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0183
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.202-0239
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#@vpnclashfa - 3745
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.202-8080+%7C+96.81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.202:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0228
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#@vpnclashfa - 3746
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Netherlands%20Greenhost
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.205:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?#Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.208-0200
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.208-0251
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#@vpnclashfa - 3747
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.208:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%40MARAMBASHI%20%F0%9F%87%BA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%40MARAMBASHI%20%F0%9F%92%9B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%5BSS%2058%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.210-0188
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.210-0260
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@vpnclashfa - 3748
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.210-8080+%7C+96.67ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱NL%20%20ROSE—20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🌐سرور 628 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🌐سرور 629 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.210:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080?#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-961
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.214-0191
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.214-0235
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@vpnclashfa - 3749
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.214-8080+%7C+97.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.214:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?#Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%40meli_proxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.217-0184
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.217-0237
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#@vpnclashfa - 3750
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+82.38.31.217-8080+%7C+96.54ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.217:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.218-0207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.218-0244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#@vpnclashfa - 3751
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#t.me/OutlineVpnOfficial
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#🔒 SS-TCP-NA 🇬🇧 GB-82.38.31.218:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXN1OVBNakt5NEtRQ1BBa2tCcTBL@89.185.84.185:443?#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%A7-London-708ms-Global%20Connectivity%20Solutions%20LLP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.140.88-0180
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.140.88-0225
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+57.129.140.88-8388+%7C+79.12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+57.129.140.88-8388+%7C+83.25ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#🔒 SS-TCP-NA 🇬🇧 GB-57.129.140.88:8388
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%5BSS%2059%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#@vpnclashfa - 3752
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#🇬🇧GB%20%20ROSE—58
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#🌐سرور 160 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#🌐سرور 161 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388?#%5BSS%2060%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388?#@vpnclashfa - 3753
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb09ANTcuMTI5LjE0MC44ODo4Mzg4#@vpnclashfa - 3754
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprN3UxM2ZmZFlfYktEZkEyM2s3Sk5lQVNNZ0xXSnZqeg==@185.155.96.155:8444#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprN3hXNk41U0FWcGdlcWkxd2Q3czd5eEQ3UzhQeGFlaFVNNVc4YXBIclFpM3BTb0RSWFNjb0FQazhTVmE0bUtidlJqcmdFTlUzZFVnelRncDlUM3JyWGluYURlNENYWWs@185.5.38.111:55988#🇫🇮FI%20%20ROSE—42
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@131.145.23.4:443#@vpnclashfa - 3755
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@131.145.23.4:443#🇬🇧GB%20%20ROSE—107
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#@vpnclashfa - 3756
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.41.100:443#%E8%8A%82%E7%82%B9%E6%97%A5%E6%9C%9F%EF%BC%9A2026-02-25
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.41.100:443#🌐سرور 809 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.41.100:443#🌐سرور 810 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.41.100:443#🔒 SS-TCP-NA 🇬🇧 GB-20.108.41.100:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.81.219:443#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2029%20-4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.81.219:443#@vpnclashfa - 3757
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@4.234.67.115:443?#@vpnclashfa - 3758
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.105.33.148:443#🔒 SS-TCP-NA 🇬🇧 GB-51.105.33.148:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.105.48.144:443#%5BSS%2061%5D%20%40ResistalProxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.105.48.144:443#@vpnclashfa - 3759
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.105.48.144:443?#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%E3%80%919
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.145.90.229:443#@meliproxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.145.90.229:443#@vpnclashfa - 3760
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.145.90.56:443#🌐سرور 811 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@51.145.90.56:443#🌐سرور 812 | Esf-06| MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40MARAMBASHI%20%F0%9F%92%9F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40Spartan_YT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40meliproxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%A7%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%E2%81%B6%E2%81%B5%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%E6%9C%AA%E7%9F%A5%20SS-25%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%E6%9C%AA%E7%9F%A527%207.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20SS-24%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-20.108.41.100-0224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.105.33.148-0185
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.105.33.148-0841
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#@meliproxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#@vpnclashfa - 3761
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c2.havij.co-443+%7C+95.04ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+admin.c2.havij.co-443+%7C+95.78ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🆔anty_filter%20🔒%20SS-TCP-TLS%20❔%20XX%20140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🆔anty_filter%20🔒%20SS-TCP-TLS%20❔%20XX%20143ms
